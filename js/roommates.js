@@ -6,6 +6,8 @@ let savedHouses = []; // Array of arrays of Pokémon names
 let editingHouseIndex = null; // null or the index of the house being edited
 let searchQuery = '';
 let skillFilter = '';
+let litterFilter = '';
+let isCompatibilityMode = true;
 let habitatFilter = '';
 let dexFilter = '';
 let savedHouseAreaFilter = '';
@@ -21,6 +23,8 @@ const clearSavedBtn = document.getElementById('clear-saved-btn');
 const searchInput = document.getElementById('search-input');
 const skillFilterEl = document.getElementById('skill-filter');
 const habitatFilterEl = document.getElementById('habitat-filter');
+const litterFilterEl = document.getElementById('litter-filter');
+const compatibilityToggleEl = document.getElementById('compatibility-toggle');
 const dexFilterEl = document.getElementById('dex-filter');
 const savedHouseAreaFilterEl = document.getElementById('saved-house-area-filter');
 const showSavedHousesBtn = document.getElementById('show-saved-houses-btn');
@@ -60,6 +64,15 @@ async function initialize() {
     });
     habitatFilterEl.addEventListener('change', (e) => {
         habitatFilter = e.target.value;
+        renderAvailablePokemon();
+    });
+    litterFilterEl.addEventListener('change', (e) => {
+        litterFilter = e.target.value;
+        renderAvailablePokemon();
+    });
+    compatibilityToggleEl.addEventListener('change', (e) => {
+        isCompatibilityMode = e.target.checked;
+        // Re-render the available list based on the new compatibility mode
         renderAvailablePokemon();
     });
     dexFilterEl.addEventListener('change', (e) => {
@@ -103,7 +116,7 @@ function getCompatibleRoommates() {
     );
     const availablePokemon = allPokemonData.filter(p => !housedPokemon.has(p.pokemon));
 
-    if (currentHouse.length === 0) {
+    if (currentHouse.length === 0 || !isCompatibilityMode) {
         return availablePokemon;
     }
 
@@ -127,10 +140,14 @@ function getCompatibleRoommates() {
 function populateFilters() {
     const skills = new Set();
     const habitats = new Set();
+    const litterDrops = new Set();
 
     allPokemonData.forEach(p => {
         p.skills.forEach(skill => skills.add(skill));
         habitats.add(p.habitat);
+        if (p.litter_drop) {
+            litterDrops.add(p.litter_drop);
+        }
     });
 
     skillFilterEl.innerHTML = '<option value="">Filter by Skill</option>' + 
@@ -138,6 +155,9 @@ function populateFilters() {
 
     habitatFilterEl.innerHTML = '<option value="">Filter by Habitat</option>' + 
         [...habitats].sort().map(h => `<option value="${h}">${h}</option>`).join('');
+
+    litterFilterEl.innerHTML = '<option value="">Filter by Litter</option>' +
+        [...litterDrops].sort().map(l => `<option value="${l}">${l}</option>`).join('');
 }
 
 // --- UI RENDERING ---
@@ -194,6 +214,9 @@ function renderAvailablePokemon() {
     if (skillFilter) {
         available = available.filter(p => p.skills.includes(skillFilter));
     }
+    if (litterFilter) {
+        available = available.filter(p => p.litter_drop === litterFilter);
+    }
     if (habitatFilter) {
         available = available.filter(p => p.habitat === habitatFilter);
     }
@@ -203,9 +226,9 @@ function renderAvailablePokemon() {
 
     if (available.length === 0) {
         let message = 'No available Pokémon to display.';
-        if (currentHouse.length > 0 && !(searchQuery || skillFilter || habitatFilter || dexFilter)) {
+        if (currentHouse.length > 0 && isCompatibilityMode && !(searchQuery || skillFilter || habitatFilter || dexFilter || litterFilter)) {
             message = 'No other compatible roommates found.';
-        } else if (searchQuery || skillFilter || habitatFilter || dexFilter) {
+        } else if (searchQuery || skillFilter || habitatFilter || dexFilter || litterFilter) {
             message = 'No matching Pokémon found for the current filters.';
         }
         grid.innerHTML = `<div class="col-span-full text-center py-10 text-slate-500">${message}</div>`;

@@ -73,14 +73,21 @@
         <!-- Available Roommates -->
             <section>
                 <div class="mb-4">
-                    <h2 class="font-bold text-xl text-slate-200 mb-3">Available Roommates</h2>
-                    <div id="filter-controls" class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                    <h2 class="font-bold text-xl text-slate-200 mb-2">Available Roommates</h2>
+                    <div class="flex items-center gap-3 mb-4">
+                        <input type="checkbox" id="compatibility-toggle" class="h-5 w-5 rounded border-slate-500 bg-slate-800 text-blue-500 focus:ring-blue-500 cursor-pointer" checked>
+                        <label for="compatibility-toggle" class="text-slate-300 font-medium cursor-pointer">Enforce Compatibility (Same Habitat & Shared Favorites)</label>
+                    </div>
+                    <div id="filter-controls" class="grid grid-cols-2 md:grid-cols-5 gap-4">
                         <input type="text" id="search-input" placeholder="Search by name..." class="p-3 rounded-xl border border-slate-500 bg-slate-800 text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition col-span-2 md:col-span-1">
                         <select id="skill-filter" class="p-3 rounded-xl border border-slate-500 bg-slate-800 text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition">
                             <option value="">Filter by Skill</option>
                         </select>
                         <select id="habitat-filter" class="p-3 rounded-xl border border-slate-500 bg-slate-800 text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition">
                             <option value="">Filter by Habitat</option>
+                        </select>
+                        <select id="litter-filter" class="p-3 rounded-xl border border-slate-500 bg-slate-800 text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition">
+                            <option value="">Filter by Litter</option>
                         </select>
                         <select id="dex-filter" class="p-3 rounded-xl border border-slate-500 bg-slate-800 text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition">
                             <option value="">Filter by Dex</option>
