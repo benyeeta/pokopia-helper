@@ -1,0 +1,1699 @@
+[
+  {
+    "dex": "main",
+    "number": "001",
+    "name": "Tall grass",
+    "pokemon": [{ "id": "Bulbasaur" }, { "id": "Squirtle" }, { "id": "Charmander", "condition": "sunny and cloudy only" }, { "id": "Oddish", "condition": "night only" }, { "id": "Geodude", "condition": "Palette Town only" }, { "id": "Charizard", "condition": "sunny and cloudy only" }],
+    "items": ["4 tall grass"],
+    "img": "images/001.avif"
+  },
+  {
+    "dex": "main",
+    "number": "002",
+    "name": "Tree-shaded tall grass",
+    "pokemon": [{ "id": "Scyther" }, { "id": "Scizor", "condition": "Palette Town only" }, { "id": "Bellsprout" }, { "id": "Pinsir" }, { "id": "Heracross" }, { "id": "Skwovet", "condition": "Palette Town only" }],
+    "items": ["1 large tree (any)", "4 tall grass"],
+    "img": "images/002.avif"
+  },
+  {
+    "dex": "main",
+    "number": "003",
+    "name": "Boulder-shaded tall grass",
+    "pokemon": [{ "id": "Timburr" }, { "id": "Gurdurr" }, { "id": "Machop", "condition": "Palette Town only" }],
+    "items": ["4 tall grass", "1 large boulder"],
+    "img": "images/003.avif"
+  },
+  {
+    "dex": "main",
+    "number": "004",
+    "name": "Hydrated tall grass",
+    "pokemon": [{ "id": "Squirtle" }, { "id": "Wartortle" }, { "id": "Blastoise" }, { "id": "Sliggoo", "condition": "rain only" }, { "id": "Cramorant", "condition": "Palette Town only" }],
+    "items": ["4 tall grass", "2 water"],
+    "img": "images/004.avif"
+  },
+  {
+    "dex": "main",
+    "number": "005",
+    "name": "Seaside tall grass",
+    "pokemon": [{ "id": "Slowpoke" }, { "id": "Slowbro" }, { "id": "Slowking" }],
+    "items": ["4 tall grass", "2 ocean water"],
+    "img": "images/005.avif"
+  },
+  {
+    "dex": "main",
+    "number": "006",
+    "name": "Elevated tall grass",
+    "pokemon": [{ "id": "Pidgey", "condition": "day only" }, { "id": "Pidgeotto", "condition": "day only" }, { "id": "Hoothoot", "condition": "night only" }, { "id": "Noctowl", "condition": "night only" }],
+    "items": ["4 tall grass", "1 high-up location"],
+    "img": "images/006.avif"
+  },
+  {
+    "dex": "main",
+    "number": "007",
+    "name": "Illuminated tall grass",
+    "pokemon": [{ "id": "Venonat", "condition": "night only" }, { "id": "Venomoth", "condition": "night only" }],
+    "items": ["4 tall grass (any)", "1 lighting (any)"],
+    "img": "images/007.avif"
+  },
+  {
+    "dex": "main",
+    "number": "008",
+    "name": "Pretty flower bed",
+    "pokemon": [{ "id": "Pidgey", "condition": "day only" }, { "id": "Pidgeotto", "condition": "day only" }, { "id": "Hoothoot", "condition": "night only" }, { "id": "Combee" }, { "id": "Eevee", "condition": "Palette Town only" }, { "id": "Magby", "condition": "Palette Town only" }],
+    "items": ["4 wildflowers"],
+    "img": "images/008.avif"
+  },
+  {
+    "dex": "main",
+    "number": "009",
+    "name": "Tree-shaded flower bed",
+    "pokemon": [{ "id": "Goomy", "condition": "rain only" }, { "id": "Cacturne", "condition": "night only" }, { "id": "Vikavolt", "condition": "Palette Town only" }],
+    "items": ["1 berry tree (any)", "4 wildflowers"],
+    "img": "images/009.avif"
+  },
+  {
+    "dex": "main",
+    "number": "010",
+    "name": "Hydrated flower bed",
+    "pokemon": [{ "id": "Volbeat" }, { "id": "Illumise" }],
+    "items": ["4 wildflowers", "2 water"],
+    "img": "images/010.avif"
+  },
+  {
+    "dex": "main",
+    "number": "011",
+    "name": "Field of flowers",
+    "pokemon": [{ "id": "Vespiquen" }, { "id": "Ivysaur" }, { "id": "Venusaur" }],
+    "items": ["8 wildflowers"],
+    "img": "images/011.avif"
+  },
+  {
+    "dex": "main",
+    "number": "012",
+    "name": "Elevated flower bed",
+    "pokemon": [{ "id": "Paras" }, { "id": "Parasect" }],
+    "items": ["4 wildflowers", "1 high-up location"],
+    "img": "images/012.avif"
+  },
+  {
+    "dex": "main",
+    "number": "013",
+    "name": "Grave with flowers",
+    "pokemon": [{ "id": "Cubone" }, { "id": "Marowak" }],
+    "items": ["4 wildflowers", "1 gravestone"],
+    "img": "images/013.avif"
+  },
+  {
+    "dex": "main",
+    "number": "014",
+    "name": "Flower garden",
+    "pokemon": [{ "id": "Paras" }, { "id": "Parasect" }],
+    "items": ["4 hedges (any)", "4 wildflowers"],
+    "img": "images/014.avif"
+  },
+  {
+    "dex": "main",
+    "number": "015",
+    "name": "Fresh veggie field",
+    "pokemon": [{ "id": "Drilbur" }, { "id": "Excadrill" }],
+    "items": ["8 vegetable field (any)"],
+    "img": "images/015.avif"
+  },
+  {
+    "dex": "main",
+    "number": "016",
+    "name": "Riding warm updrafts",
+    "pokemon": [{ "id": "Drifloon" }],
+    "items": ["3 lit campfires"],
+    "img": "images/016.avif"
+  },
+  {
+    "dex": "main",
+    "number": "017",
+    "name": "Campsite",
+    "pokemon": [{ "id": "Charmeleon", "condition": "sunny and cloudy only" }],
+    "items": ["1 lit campfire", "1 straw table", "1 straw stool"],
+    "img": "images/017.avif"
+  },
+  {
+    "dex": "main",
+    "number": "018",
+    "name": "Training waterfall",
+    "pokemon": [{ "id": "Tyrogue" }],
+    "items": ["1 seat (any)", "2 water", "1 waterfall"],
+    "img": "images/018.avif"
+  },
+  {
+    "dex": "main",
+    "number": "019",
+    "name": "Tantalizing dining set",
+    "pokemon": [{ "id": "Gulpin" }],
+    "items": ["1 seat (any)", "1 table (any)", "1 plated food"],
+    "img": "images/019.avif"
+  },
+  {
+    "dex": "main",
+    "number": "020",
+    "name": "Picnic set",
+    "pokemon": [{ "id": "Pichu", "condition": "Withered Wasteland only" }, { "id": "Pikachu", "condition": "Palette Town only" }],
+    "items": ["1 seat (any)", "1 table (any)", "1 picnic basket"],
+    "img": "images/020.avif"
+  },
+  {
+    "dex": "main",
+    "number": "021",
+    "name": "Flowery table",
+    "pokemon": [{ "id": "Weepinbell" }, { "id": "Victreebel" }],
+    "items": ["1 seat (any)", "1 table (any)", "1 small vase"],
+    "img": "images/021.avif"
+  },
+  {
+    "dex": "main",
+    "number": "022",
+    "name": "Bench with greenery",
+    "pokemon": [{ "id": "Bulbasaur" }, { "id": "Ivysaur" }],
+    "items": ["2 hedges (any)", "1 seat (wide)"],
+    "img": "images/022.avif"
+  },
+  {
+    "dex": "main",
+    "number": "023",
+    "name": "Illuminated bench",
+    "pokemon": [{ "id": "Venonat", "condition": "night only" }, { "id": "Venomoth", "condition": "night only" }],
+    "items": ["1 seat (wide)", "1 powered streetlight (any)"],
+    "img": "images/023.avif"
+  },
+  {
+    "dex": "main",
+    "number": "024",
+    "name": "Exercise resting spot",
+    "pokemon": [{ "id": "Hitmonchan" }],
+    "items": ["1 punching bag", "1 seat (any)"],
+    "img": "images/024.avif"
+  },
+  {
+    "dex": "main",
+    "number": "025",
+    "name": "Urgent care",
+    "pokemon": [{ "id": "Hitmonlee" }],
+    "items": ["1 seat (any)", "1 table (any)", "1 first aid kit"],
+    "img": "images/025.avif"
+  },
+  {
+    "dex": "main",
+    "number": "026",
+    "name": "Gym first aid",
+    "pokemon": [{ "id": "Hitmontop" }],
+    "items": ["1 table (any)", "1 punching bag", "1 first aid kit"],
+    "img": "images/026.avif"
+  },
+  {
+    "dex": "main",
+    "number": "027",
+    "name": "Road sign",
+    "pokemon": [{ "id": "Shellos" }, { "id": "Shellos East Sea" }],
+    "items": ["1 arrow sign", "3 wooden path"],
+    "img": "images/027.avif"
+  },
+  {
+    "dex": "main",
+    "number": "028",
+    "name": "Large luggage carrier",
+    "pokemon": [{ "id": "Gurdurr" }, { "id": "Tinkatink", "condition": "Palette Town only" }, { "id": "Tinkatuff", "condition": "Palette Town only" }],
+    "items": ["1 cart", "2 wooden crates"],
+    "img": "images/028.avif"
+  },
+  {
+    "dex": "main",
+    "number": "029",
+    "name": "Lumberjack's workplace",
+    "pokemon": [{ "id": "Axew" }, { "id": "Fraxure" }, { "id": "Haxorus" }],
+    "items": ["1 log chair", "1 cart", "1 tree stump (any)", "1 log table"],
+    "img": "images/029.avif"
+  },
+  {
+    "dex": "main",
+    "number": "030",
+    "name": "Bed with a plush",
+    "pokemon": [{ "id": "Drifloon" }, { "id": "Slowbro" }, { "id": "Slowking" }, { "id": "Munchlax", "condition": "Palette Town only" }],
+    "items": ["1 bed (any)", "1 doll (any)"],
+    "img": "images/030.avif"
+  },
+  {
+    "dex": "main",
+    "number": "031",
+    "name": "Gently lit bed",
+    "pokemon": [{ "id": "Hoothoot", "condition": "night only" }, { "id": "Noctowl", "condition": "night only" }],
+    "items": ["1 bed (any)", "1 table (any)", "1 lit slender candle"],
+    "img": "images/031.avif"
+  },
+  {
+    "dex": "main",
+    "number": "032",
+    "name": "Grave offering",
+    "pokemon": [{ "id": "Litwick" }, { "id": "Lampent" }],
+    "items": ["1 gravestone", "1 plated food", "2 lit slender candles"],
+    "img": "images/032.avif"
+  },
+  {
+    "dex": "main",
+    "number": "033",
+    "name": "Creepy grave offering",
+    "pokemon": [{ "id": "Litwick" }, { "id": "Lampent" }, { "id": "Chandelure" }],
+    "items": ["2 lit eerie candles", "1 gravestone", "1 plated food"],
+    "img": "images/033.avif"
+  },
+  {
+    "dex": "main",
+    "number": "034",
+    "name": "Chansey resting area",
+    "pokemon": [{ "id": "Vileplume" }, { "id": "Bellossom" }],
+    "items": ["6 hedges (any)", "1 Chansey plant", "1 seat (wide)"],
+    "img": "images/034.avif"
+  },
+  {
+    "dex": "main",
+    "number": "035",
+    "name": "Irresistible scent and glow",
+    "pokemon": [{ "id": "Weepinbell" }, { "id": "Victreebel" }],
+    "items": ["1 pitcher-plant pot", "1 plated foot", "1 mushroom lamp"],
+    "img": "images/035.avif"
+  },
+  {
+    "dex": "main",
+    "number": "036",
+    "name": "Floating in the shade",
+    "pokemon": [{ "id": "Blastoise" }],
+    "items": ["1 inflatable boat", "1 beach parasol", "2 water"],
+    "img": "images/036.avif"
+  },
+  {
+    "dex": "main",
+    "number": "037",
+    "name": "Smooth tall grass",
+    "pokemon": [{ "id": "Onix" }],
+    "items": ["1 dry tall grass", "1 smooth rock"],
+    "img": "images/037.avif"
+  },
+  {
+    "dex": "main",
+    "number": "038",
+    "name": "Factory storage",
+    "pokemon": [{ "id": "Magnemite" }],
+    "items": ["1 powered streetlight (any)", "1 control unit", "1 metal drum", "1 jumbled cords"],
+    "img": "images/038.avif"
+  },
+  {
+    "dex": "main",
+    "number": "039",
+    "name": "Luxury chirp-chirp meal",
+    "pokemon": [{ "id": "Pidgeot", "condition": "daytime only" }],
+    "items": ["1 wooden birdhouse", "1 berry basket"],
+    "img": "images/039.avif"
+  },
+  {
+    "dex": "main",
+    "number": "040",
+    "name": "Berry-feast campsite",
+    "pokemon": [{ "id": "Charizard", "condition": "sunny/cloudy only" }],
+    "items": ["1 Castform weather charm (sun)", "1 lit bonfire", "1 berry basket", "1 high-up location"],
+    "img": "images/040.avif"
+  },
+  {
+    "dex": "main",
+    "number": "041",
+    "name": "Rain Dance site",
+    "pokemon": [{ "id": "Goomy", "condition": "rain only" }],
+    "items": ["2 Castform weather charm (rain)", "1 plated food"],
+    "img": "images/041.avif"
+  },
+  {
+    "dex": "main",
+    "number": "042",
+    "name": "Sunny Day site",
+    "pokemon": [{ "id": "Cacnea", "condition": "sunny only" }],
+    "items": ["2 Castform weather charm (sun)", "1 plated food"],
+    "img": "images/042.avif"
+  },
+  {
+    "dex": "main",
+    "number": "043",
+    "name": "Professor's treasure trove",
+    "pokemon": [{ "id": "Tangrowth" }],
+    "items": ["1 Professor's treasure trove", "4 lost relics (large)", "1 bed (any)"],
+    "img": "images/043.avif"
+  },
+  {
+    "dex": "main",
+    "number": "044",
+    "name": "Cozy log handicrafts",
+    "pokemon": [{ "id": "Axew" }, { "id": "Fraxure" }, { "id": "Haxorus" }],
+    "items": ["1 log chair", "1 log bed", "1 log table"],
+    "img": "images/044.avif"
+  },
+  {
+    "dex": "main",
+    "number": "045",
+    "name": "Very-berry space",
+    "pokemon": [{ "id": "Goodra", "condition": "rain only" }],
+    "items": ["1 berry chair", "1 berry bed", "1 berry table", "1 powered berry table lamp"],
+    "img": "images/045.avif"
+  },
+  {
+    "dex": "main",
+    "number": "046",
+    "name": "Garden terrace",
+    "pokemon": [{ "id": "Venusaur" }],
+    "items": ["4 wildflowers", "1 garden chair", "1 lit garden light", "1 garden table"],
+    "img": "images/046.avif"
+  },
+  {
+    "dex": "main",
+    "number": "047",
+    "name": "Tree-shaded snoozing Snorlax",
+    "pokemon": [{ "id": "Munchlax", "condition": "Palette Town only" }, { "id": "Snorlax", "condition": "Palette Town only" }],
+    "items": ["1 large tree (any)", "1 naptime bed"],
+    "img": "images/047.avif"
+  },
+  {
+    "dex": "main",
+    "number": "048",
+    "name": "Good old-fashioned antiques",
+    "pokemon": [{ "id": "Weezing", "condition": "Palette Town only" }, { "id": "Snorlax", "condition": "Palette Town only" }],
+    "items": ["1 antique closet", "1 antique bed", "1 antique dresser", "1 antique chair"],
+    "img": "images/048.avif"
+  },
+  {
+    "dex": "main",
+    "number": "049",
+    "name": "Nothin' but Poké Balls",
+    "pokemon": [{ "id": "Tangela", "condition": "Palette Town only" }],
+    "items": ["1 Poké Ball sofa", "1 Poké Ball bed", "1 Poké Ball table", "1 powered Poké Ball light"],
+    "img": "images/049.avif"
+  },
+  {
+    "dex": "main",
+    "number": "050",
+    "name": "Yellow tall grass",
+    "pokemon": [{ "id": "Spinarak" }, { "id": "Ariados" }, { "id": "Grubbin" }],
+    "items": ["4 yellow tall grass"],
+    "img": "images/050.avif"
+  },
+  {
+    "dex": "main",
+    "number": "051",
+    "name": "Tree-shaded yellow tall grass",
+    "pokemon": [{ "id": "Zubat", "condition": "Bleak Beach only, night only" }, { "id": "Golbat", "condition": "night only" }, { "id": "Makuhita" }, { "id": "Hariyama" }],
+    "items": ["1 large tree (any)", "4 yellow tall grass"],
+    "img": "images/051.avif"
+  },
+  {
+    "dex": "main",
+    "number": "052",
+    "name": "Elevated yellow tall grass",
+    "pokemon": [{ "id": "Wingull", "condition": "day only" }, { "id": "Pelipper", "condition": "day only" }, { "id": "Crobat", "condition": "night only" }],
+    "items": ["4 yellow tall grass", "1 high-up locations"],
+    "img": "images/052.avif"
+  },
+  {
+    "dex": "main",
+    "number": "053",
+    "name": "Hydrated yellow tall grass",
+    "pokemon": [{ "id": "Azurill" }, { "id": "Marill" }, { "id": "Piplup" }, { "id": "Prinplup" }],
+    "items": ["4 yellow tall grass", "2 water"],
+    "img": "images/053.avif"
+  },
+  {
+    "dex": "main",
+    "number": "054",
+    "name": "Marshy tall grass",
+    "pokemon": [{ "id": "Paldean Wooper" }, { "id": "Clodsire" }],
+    "items": ["4 yellow tall grass", "2 muddy water"],
+    "img": "images/054.avif"
+  },
+  {
+    "dex": "main",
+    "number": "055",
+    "name": "Overgrowth vending machine",
+    "pokemon": [{ "id": "Mareep" }],
+    "items": ["4 yellow tall grass", "1 powered vending machine"],
+    "img": "images/055.avif"
+  },
+  {
+    "dex": "main",
+    "number": "056",
+    "name": "Breezy flower bed",
+    "pokemon": [{ "id": "Pawmi" }, { "id": "Zorua" }, { "id": "Zoroark" }],
+    "items": ["4 seashore flowers"],
+    "img": "images/056.avif"
+  },
+  {
+    "dex": "main",
+    "number": "057",
+    "name": "Tropical vibes",
+    "pokemon": [{ "id": "Gloom" }, { "id": "Exeggcute" }, { "id": "Exeggutor" }],
+    "items": ["1 large palm tree", "4 seashore flowers"],
+    "img": "images/057.avif"
+  },
+  {
+    "dex": "main",
+    "number": "058",
+    "name": "Windy flower bed",
+    "pokemon": [{ "id": "Wingull", "condition": "day only" }, { "id": "Pelipper", "condition": "day only" }],
+    "items": ["1 windmill", "4 seashore flowers"],
+    "img": "images/058.avif"
+  },
+  {
+    "dex": "main",
+    "number": "059",
+    "name": "Shaded beach",
+    "pokemon": [{ "id": "Exeggcute" }, { "id": "Exeggutor" }],
+    "items": ["1 large palm tree", "1 beach chair"],
+    "img": "images/059.avif"
+  },
+  {
+    "dex": "main",
+    "number": "060",
+    "name": "Tropical seaside",
+    "pokemon": [{ "id": "Lapras" }],
+    "items": ["1 large palm tree", "2 hedges (any)", "2 ocean water"],
+    "img": "images/060.avif"
+  },
+  {
+    "dex": "main",
+    "number": "061",
+    "name": "Resting spot",
+    "pokemon": [{ "id": "Meowth" }],
+    "items": ["1 cardboard boxes", "1 straw bed"],
+    "img": "images/061.avif"
+  },
+  {
+    "dex": "main",
+    "number": "062",
+    "name": "Perpetual mess",
+    "pokemon": [{ "id": "Growlithe" }, { "id": "Azurill" }],
+    "items": ["1 cardboard boxes", "2 toys (any)"],
+    "img": "images/062.avif"
+  },
+  {
+    "dex": "main",
+    "number": "063",
+    "name": "Trash collection site",
+    "pokemon": [{ "id": "Trubbish" }, { "id": "Garbodor" }, { "id": "Koffing", "condition": "Palette Town only" }, { "id": "Weezing", "condition": "Palette Town only" }],
+    "items": ["1 waste bin (any)", "1 sign (any)", "1 garbage bags"],
+    "img": "images/063.avif"
+  },
+  {
+    "dex": "main",
+    "number": "064",
+    "name": "Trash can central",
+    "pokemon": [{ "id": "Magneton" }, { "id": "Magnezone" }, { "id": "Electabuzz" }],
+    "items": ["4 garbage bins"],
+    "img": "images/064.avif"
+  },
+  {
+    "dex": "main",
+    "number": "065",
+    "name": "Trash disposal site",
+    "pokemon": [{ "id": "Crobat", "condition": "night only" }],
+    "items": ["1 utility pole", "1 garbage bags"],
+    "img": "images/065.avif"
+  },
+  {
+    "dex": "main",
+    "number": "066",
+    "name": "Park bench",
+    "pokemon": [{ "id": "Zubat", "condition": "Bleak Beach, night only" }, { "id": "Voltorb" }, { "id": "Electrode" }],
+    "items": ["1 seat (wide)", "1 garbage bin"],
+    "img": "images/066.avif"
+  },
+  {
+    "dex": "main",
+    "number": "067",
+    "name": "Tantalizing restaurant",
+    "pokemon": [{ "id": "Pawmo" }, { "id": "Pawmi" }],
+    "items": ["1 seat (any)", "1 menu board", "1 table (any)", "1 plated food"],
+    "img": "images/067.avif"
+  },
+  {
+    "dex": "main",
+    "number": "068",
+    "name": "Tableside delivery cart",
+    "pokemon": [{ "id": "Empoleon", "condition": "rain only" }],
+    "items": ["2 chic chairs", "1 chic table", "1 small vase", "1 push cart", "1 plated food"],
+    "img": "images/068.avif"
+  },
+  {
+    "dex": "main",
+    "number": "069",
+    "name": "Chirp-chirp meal",
+    "pokemon": [{ "id": "Torchic" }, { "id": "Blaziken" }],
+    "items": ["Wooden birdhouse", "table (any)", "plated food"],
+    "img": "images/069.avif"
+  },
+  {
+    "dex": "main",
+    "number": "070",
+    "name": "Café space",
+    "pokemon": [{ "id": "Pawmo" }, { "id": "Pawmot" }],
+    "items": ["2 seats (any)", "1 potted plant (any)", "2 counters", "1 mug", "1 menu board"],
+    "img": "images/070.avif"
+  },
+  {
+    "dex": "main",
+    "number": "071",
+    "name": "Beach set",
+    "pokemon": [{ "id": "Tatsugiri Stretchy Form" }, { "id": "Tatsugiri Droopy Form" }, { "id": "Tatsugiri Curly Form" }],
+    "items": ["1 beach chair", "1 beach parasol", "1 side table"],
+    "img": "images/071.avif"
+  },
+  {
+    "dex": "main",
+    "number": "072",
+    "name": "Light-up stage",
+    "pokemon": [{ "id": "Electabuzz" }, { "id": "Electivire" }],
+    "items": ["2 powered spotlights", "1 powered small stage"],
+    "img": "images/072.avif"
+  },
+  {
+    "dex": "main",
+    "number": "073",
+    "name": "Surprise in store",
+    "pokemon": [{ "id": "Haunter", "condition": "night only" }, { "id": "Zoroark" }, { "id": "Gengar", "condition": "night only" }],
+    "items": ["2 balloons", "1 boo-in-the-box"],
+    "img": "images/073.avif"
+  },
+  {
+    "dex": "main",
+    "number": "074",
+    "name": "Night festival venue",
+    "pokemon": [{ "id": "Flaaffy" }],
+    "items": ["2 balloons", "1 powered Raichu sign"],
+    "img": "images/074.avif"
+  },
+  {
+    "dex": "main",
+    "number": "075",
+    "name": "Changing area",
+    "pokemon": [{ "id": "Minccino" }],
+    "items": ["1 closet (any)", "1 mirror (large)"],
+    "img": "images/075.avif"
+  },
+  {
+    "dex": "main",
+    "number": "076",
+    "name": "Private makeup stand",
+    "pokemon": [{ "id": "Minccino" }, { "id": "Cinccino" }],
+    "items": ["2 partitions (any)", "1 closet (any)", "1 dresser (any)"],
+    "img": "images/076.avif"
+  },
+  {
+    "dex": "main",
+    "number": "077",
+    "name": "Knitting station",
+    "pokemon": [{ "id": "Mareep" }, { "id": "Flaaffy" }],
+    "items": ["1 seat (any)", "1 table (any)", "1 knitting supplies"],
+    "img": "images/077.avif"
+  },
+  {
+    "dex": "main",
+    "number": "078",
+    "name": "Hot-spring shower",
+    "pokemon": [{ "id": "Psyduck" }, { "id": "Golduck" }],
+    "items": ["1 shower", "1 seat (any)", "2 hot-spring water"],
+    "img": "images/078.avif"
+  },
+  {
+    "dex": "main",
+    "number": "079",
+    "name": "Resort meal prep",
+    "pokemon": [{ "id": "Growlithe" }, { "id": "Torchic" }, { "id": "Combusken" }],
+    "items": ["1 large palm tree", "1 seat (any)", "1 plated food", "1 campfire"],
+    "img": "images/079.avif"
+  },
+  {
+    "dex": "main",
+    "number": "080",
+    "name": "All packed up",
+    "pokemon": [{ "id": "Farfetch'd" }, { "id": "Makuhita" }, { "id": "Hariyama" }],
+    "items": ["1 cart", "2 cardboard boxes"],
+    "img": "images/080.avif"
+  },
+  {
+    "dex": "main",
+    "number": "081",
+    "name": "Full recovery",
+    "pokemon": [{ "id": "Chansey" }, { "id": "Peakychu" }],
+    "items": ["1 bed (any)", "1 plain chest", "1 first aid kit"],
+    "img": "images/081.avif"
+  },
+  {
+    "dex": "main",
+    "number": "082",
+    "name": "Alarm clock sleep zone",
+    "pokemon": [{ "id": "Happiny" }],
+    "items": ["1 bed (any)", "1 table (any)", "1 alarm clock"],
+    "img": "images/082.avif"
+  },
+  {
+    "dex": "main",
+    "number": "083",
+    "name": "Vending machine break area",
+    "pokemon": [{ "id": "Grubbin" }, { "id": "Charjabug" }],
+    "items": ["1 powered vending machine", "1 seat (wide)"],
+    "img": "images/083.avif"
+  },
+  {
+    "dex": "main",
+    "number": "084",
+    "name": "Vending machine set",
+    "pokemon": [{ "id": "Elekid" }, { "id": "Electivire" }],
+    "items": ["1 waste bin (any)", "1 powered vending machine"],
+    "img": "images/084.avif"
+  },
+  {
+    "dex": "main",
+    "number": "085",
+    "name": "Mini game corner",
+    "pokemon": [{ "id": "Magneton" }, { "id": "Magnezone" }],
+    "items": ["1 powered arcade machine", "1 seat (any)", "1 punching game"],
+    "img": "images/085.avif"
+  },
+  {
+    "dex": "main",
+    "number": "086",
+    "name": "Waterwheel spot",
+    "pokemon": [{ "id": "Prinplup" }, { "id": "Empoleon", "condition": "rain only" }],
+    "items": ["1 waterwheel", "2 water", "1 waterfall"],
+    "img": "images/086.avif"
+  },
+  {
+    "dex": "main",
+    "number": "087",
+    "name": "Furnace spot",
+    "pokemon": [{ "id": "Combusken" }, { "id": "Blaziken" }],
+    "items": ["1 metal drum", "1 furnace"],
+    "img": "images/087.avif"
+  },
+  {
+    "dex": "main",
+    "number": "088",
+    "name": "Dock",
+    "pokemon": [{ "id": "Marill" }, { "id": "Azumarill", "condition": "rain only" }],
+    "items": ["4 walkways", "1 powered streetlight", "2 ocean water"],
+    "img": "images/088.avif"
+  },
+  {
+    "dex": "main",
+    "number": "089",
+    "name": "Spooky study",
+    "pokemon": [{ "id": "Gastly", "condition": "night only" }, { "id": "Haunter", "condition": "night only" }],
+    "items": ["1 bookcase", "1 chic sofa", "1 plain table", "1 lit slender candle"],
+    "img": "images/089.avif"
+  },
+  {
+    "dex": "main",
+    "number": "090",
+    "name": "Playing pirate",
+    "pokemon": [{ "id": "Voltorb" }, { "id": "Electrode" }],
+    "items": ["2 barrels", "1 ship's wheel", "2 cannons"],
+    "img": "images/090.avif"
+  },
+  {
+    "dex": "main",
+    "number": "091",
+    "name": "Working the register",
+    "pokemon": [{ "id": "Meowth" }, { "id": "Happiny" }, { "id": "Audino" }, { "id": "Mawile", "condition": "Palette Town only" }],
+    "items": ["2 table (any)", "1 powered cash register"],
+    "img": "images/091.avif"
+  },
+  {
+    "dex": "main",
+    "number": "092",
+    "name": "Tiny atelier",
+    "pokemon": [{ "id": "Smeargle" }],
+    "items": ["1 canvas", "1 seat (any)"],
+    "img": "images/092.avif"
+  },
+  {
+    "dex": "main",
+    "number": "093",
+    "name": "Gourmet's altar",
+    "pokemon": [{ "id": "Snorlax" }],
+    "items": ["1 offering dish"],
+    "img": "images/093.avif"
+  },
+  {
+    "dex": "main",
+    "number": "094",
+    "name": "Pikachu space",
+    "pokemon": [{ "id": "Mimikyu" }],
+    "items": ["1 Pikachu sofa", "1 Pikachu doll"],
+    "img": "images/094.avif"
+  },
+  {
+    "dex": "main",
+    "number": "095",
+    "name": "Cuteness overload",
+    "pokemon": [{ "id": "Blissey" }],
+    "items": ["1 cute sofa", "1 cute table", "1 powered cute lamp", "1 cute bed", "1 cute dresser"],
+    "img": "images/095.avif"
+  },
+  {
+    "dex": "main",
+    "number": "096",
+    "name": "Welcoming resort",
+    "pokemon": [{ "id": "Absol" }],
+    "items": ["1 resort sofa", "1 resort table", "1 resort hammock", "1 powered resort light"],
+    "img": "images/096.avif"
+  },
+  {
+    "dex": "main",
+    "number": "097",
+    "name": "Plain life",
+    "pokemon": [{ "id": "Ampharos" }],
+    "items": ["1 plain bed", "1 plain sofa", "1 plain table", "1 lit plain lamp"],
+    "img": "images/097.avif"
+  },
+  {
+    "dex": "main",
+    "number": "098",
+    "name": "Red tall grass",
+    "pokemon": [{ "id": "Scorbunny" }, { "id": "Riolu" }, { "id": "Kricketot" }, { "id": "Kricketune" }, { "id": "Cinderace" }],
+    "items": ["4 red tall grass"],
+    "img": "images/098.avif"
+  },
+  {
+    "dex": "main",
+    "number": "099",
+    "name": "Tree-shaded red tall grass",
+    "pokemon": [{ "id": "Diglett" }, { "id": "Dugtrio" }, { "id": "Bonsly" }, { "id": "Sudowoodo" }],
+    "items": ["1 large tree (any)", "4 red tall grass"],
+    "img": "images/099.avif"
+  },
+  {
+    "dex": "main",
+    "number": "100",
+    "name": "Pointy tree-shaded rocky tall grass",
+    "pokemon": [{ "id": "Dartrix" }, { "id": "Decidueye" }],
+    "items": ["1 pointy tree", "4 red tall grass", "1 large boulder"],
+    "img": "images/100.avif"
+  },
+  {
+    "dex": "main",
+    "number": "101",
+    "name": "Hydrated red tall grass",
+    "pokemon": [{ "id": "Lotad" }, { "id": "Lombre" }],
+    "items": ["4 red tall grass", "2 water"],
+    "img": "images/101.avif"
+  },
+  {
+    "dex": "main",
+    "number": "102",
+    "name": "Elevated red tall grass",
+    "pokemon": [{ "id": "Chatot", "condition": "day only" }, { "id": "Murkrow", "condition": "night only" }, { "id": "Honchkrow", "condition": "night only" }],
+    "items": ["4 red tall grass", "1 high-up location"],
+    "img": "images/102.avif"
+  },
+  {
+    "dex": "main",
+    "number": "103",
+    "name": "Grassy training field",
+    "pokemon": [{ "id": "Machoke" }, { "id": "Machamp" }],
+    "items": ["2 sandbags", "4 red tall grass"],
+    "img": "images/103.avif"
+  },
+  {
+    "dex": "main",
+    "number": "104",
+    "name": "Graceful flower bed",
+    "pokemon": [{ "id": "Cleffa", "condition": "night only" }, { "id": "Clefairy", "condition": "night only" }, { "id": "Clefable", "condition": "night only" }, { "id": "Fidough", "condition": "day only" }, { "id": "Dachsbun", "condition": "day only" }],
+    "items": ["4 mountain flowers"],
+    "img": "images/104.avif"
+  },
+  {
+    "dex": "main",
+    "number": "105",
+    "name": "Tree-shaded graceful flower bed",
+    "pokemon": [{ "id": "Murkrow", "condition": "night only" }, { "id": "Larvesta" }, { "id": "Volcanion" }],
+    "items": ["1 pointy tree", "4 mountain flowers"],
+    "img": "images/105.avif"
+  },
+  {
+    "dex": "main",
+    "number": "106",
+    "name": "Hydrated graceful flower bed",
+    "pokemon": [{ "id": "Ekans" }, { "id": "Arbok" }, { "id": "Politoed" }],
+    "items": ["4 mountain flowers", "2 water"],
+    "img": "images/106.avif"
+  },
+  {
+    "dex": "main",
+    "number": "107",
+    "name": "Flower garden stump stage",
+    "pokemon": [{ "id": "Igglybuff" }, { "id": "Jigglypuff" }, { "id": "Politoed" }],
+    "items": ["4 mountain flowers", "1 tree stump (any)", "2 mushroom lamp"],
+    "img": "images/107.avif"
+  },
+  {
+    "dex": "main",
+    "number": "108",
+    "name": "Toil in the soil",
+    "pokemon": [{ "id": "Tyranitar" }],
+    "items": ["4 vegetable fields (any)", "1 wheelbarrow"],
+    "img": "images/108.avif"
+  },
+  {
+    "dex": "main",
+    "number": "109",
+    "name": "Uplifting duckweed",
+    "pokemon": [{ "id": "Lotad" }, { "id": "Ludicolo" }],
+    "items": ["4 duckweed", "2 water"],
+    "img": "images/109.avif"
+  },
+  {
+    "dex": "main",
+    "number": "110",
+    "name": "Mossy rest spot",
+    "pokemon": [{ "id": "Larvitar" }, { "id": "Tyranitar" }],
+    "items": ["4 moss"],
+    "img": "images/110.avif"
+  },
+  {
+    "dex": "main",
+    "number": "111",
+    "name": "Mossy boulder",
+    "pokemon": [{ "id": "Graveler" }, { "id": "Golem" }],
+    "items": ["4 moss", "1 mossy boulder"],
+    "img": "images/111.avif"
+  },
+  {
+    "dex": "main",
+    "number": "112",
+    "name": "Mossy hot spring",
+    "pokemon": [{ "id": "Torkoal" }],
+    "items": ["3 moss", "2 hot-spring water"],
+    "img": "images/112.avif"
+  },
+  {
+    "dex": "main",
+    "number": "113",
+    "name": "Open-air bath",
+    "pokemon": [{ "id": "Raboot" }],
+    "items": ["1 hot-spring spout", "2 hot spring water"],
+    "img": "images/113.avif"
+  },
+  {
+    "dex": "main",
+    "number": "114",
+    "name": "Harmonious hot spring",
+    "pokemon": [{ "id": "Politoed" }],
+    "items": ["1 hot-spring spout", "1 water basin", "2 hot-spring water"],
+    "img": "images/114.avif"
+  },
+  {
+    "dex": "main",
+    "number": "115",
+    "name": "Piping-hot lava",
+    "pokemon": [{ "id": "Charcadet" }, { "id": "Volcarona" }],
+    "items": ["1 molten rock", "2 lava"],
+    "img": "images/115.avif"
+  },
+  {
+    "dex": "main",
+    "number": "116",
+    "name": "Digging and burning",
+    "pokemon": [{ "id": "Magmar" }],
+    "items": ["1 wheelbarrow", "1 smelting furnace", "1 excavation tools"],
+    "img": "images/116.avif"
+  },
+  {
+    "dex": "main",
+    "number": "117",
+    "name": "Clink-clang iron construction",
+    "pokemon": [{ "id": "Steelix" }, { "id": "Machamp" }],
+    "items": ["3 iron beams or columns", "1 wheelbarrow", "1 sandbag", "1 excavation tools"],
+    "img": "images/117.avif"
+  },
+  {
+    "dex": "main",
+    "number": "118",
+    "name": "Creepy white rocks",
+    "pokemon": [{ "id": "Glimmet" }, { "id": "Glimmora" }],
+    "items": ["1 stalagmites", "4 moss", "1 wooden crate", "1 lantern"],
+    "img": "images/118.avif"
+  },
+  {
+    "dex": "main",
+    "number": "119",
+    "name": "Container snacking",
+    "pokemon": [{ "id": "Diglett" }, { "id": "Glimmet" }, { "id": "Glimmora" }],
+    "items": ["1 barrel", "1 wooden crate", "1 lantern", "1 plated food"],
+    "img": "images/119.avif"
+  },
+  {
+    "dex": "main",
+    "number": "120",
+    "name": "Dinner table surprise",
+    "pokemon": [{ "id": "Swalot" }],
+    "items": ["2 seats (wide)", "1 table (large)", "4 party platters"],
+    "img": "images/120.avif"
+  },
+  {
+    "dex": "main",
+    "number": "121",
+    "name": "Best bread bakery",
+    "pokemon": [{ "id": "Fidough", "condition": "day only" }, { "id": "Dachsbun", "condition": "day only" }],
+    "items": ["1 bread oven", "2 counters", "1 plated food"],
+    "img": "images/121.avif"
+  },
+  {
+    "dex": "main",
+    "number": "122",
+    "name": "Mini kitchen",
+    "pokemon": [{ "id": "Magmortar" }],
+    "items": ["1 kitchen table", "1 cooking stove", "1 frying pan (any)", "1 modern sink"],
+    "img": "images/122.avif"
+  },
+  {
+    "dex": "main",
+    "number": "123",
+    "name": "House party",
+    "pokemon": [{ "id": "Dugtrio" }, { "id": "Sudowoodo" }],
+    "items": ["1 food counter", "1 paper party cups", "1 plated food"],
+    "img": "images/123.avif"
+  },
+  {
+    "dex": "main",
+    "number": "124",
+    "name": "Lazy photo-album scrolling",
+    "pokemon": [{ "id": "Toxel", "condition": "Rocky Ridges only" }],
+    "items": ["1 paper party cups", "1 tablet"],
+    "img": "images/124.avif"
+  },
+  {
+    "dex": "main",
+    "number": "125",
+    "name": "Chirping recital",
+    "pokemon": [{ "id": "Chatot", "condition": "day only" }, { "id": "Honchkrow", "condition": "night only" }],
+    "items": ["1 perch", "1 standing mic"],
+    "img": "images/125.avif"
+  },
+  {
+    "dex": "main",
+    "number": "126",
+    "name": "Recital stage",
+    "pokemon": [{ "id": "Jigglypuff" }, { "id": "Wigglytuff" }],
+    "items": ["2 speakers", "1 powered small stage", "1 standing mic"],
+    "img": "images/126.avif"
+  },
+  {
+    "dex": "main",
+    "number": "127",
+    "name": "Box to the rhythm",
+    "pokemon": [{ "id": "Machop" }, { "id": "Riolu" }, { "id": "Lucario" }],
+    "items": ["1 punching bag", "1 table (any)", "1 CD player"],
+    "img": "images/127.avif"
+  },
+  {
+    "dex": "main",
+    "number": "128",
+    "name": "Music and magazines",
+    "pokemon": [{ "id": "Kricketot" }, { "id": "Kricketune" }, { "id": "Stereo Rotom" }],
+    "items": ["1 CD player", "1 CD rack", "1 magazine rack"],
+    "img": "images/128.avif"
+  },
+  {
+    "dex": "main",
+    "number": "129",
+    "name": "Mini museum",
+    "pokemon": [{ "id": "Gimmighoul" }, { "id": "Arcanine" }],
+    "items": ["3 posts (any)", "1 pedestal/exhibition stand", "1 lost relic (large)"],
+    "img": "images/129.avif"
+  },
+  {
+    "dex": "main",
+    "number": "130",
+    "name": "Refreshing locker room",
+    "pokemon": [{ "id": "Raboot" }, { "id": "Cinderace" }],
+    "items": ["2 office lockers", "1 potted plant (any)", "1 seat (wide)", "1 punching game"],
+    "img": "images/130.avif"
+  },
+  {
+    "dex": "main",
+    "number": "131",
+    "name": "Bronze landmark",
+    "pokemon": [{ "id": "Clefairy", "condition": "night only" }, { "id": "Clefable", "condition": "night only" }],
+    "items": ["4 hedges (any)", "1 moonlight dance statue", "1 sign"],
+    "img": "images/131.avif"
+  },
+  {
+    "dex": "main",
+    "number": "132",
+    "name": "Railroad crossing",
+    "pokemon": [{ "id": "Rolycoly" }, { "id": "Carkol" }, { "id": "Coalossal" }],
+    "items": ["1 railway track", "1 crossing gate"],
+    "img": "images/132.avif"
+  },
+  {
+    "dex": "main",
+    "number": "133",
+    "name": "Chef's kitchen",
+    "pokemon": [{ "id": "Greedent" }],
+    "items": ["1 cooking stove", "1 modern sink", "1 plain table", "1 stylish cooking pot", "1 cutting board", "1 plated food"],
+    "img": "images/133.avif"
+  },
+  {
+    "dex": "main",
+    "number": "134",
+    "name": "Absolute luxury",
+    "pokemon": [{ "id": "Gholdengo" }],
+    "items": ["1 lit luxury lamp", "1 luxury bed", "1 luxury sofa", "1 luxury table"],
+    "img": "images/134.avif"
+  },
+  {
+    "dex": "main",
+    "number": "135",
+    "name": "Heavy iron",
+    "pokemon": [{ "id": "Coalossal" }],
+    "items": ["1 iron bed", "1 iron table", "1 iron chair", "1 lit lantern"],
+    "img": "images/135.avif"
+  },
+  {
+    "dex": "main",
+    "number": "136",
+    "name": "Modern living",
+    "pokemon": [{ "id": "Decidueye" }],
+    "items": ["1 industrial bed", "1 industrial desk", "1 industrial chair"],
+    "img": "images/136.avif"
+  },
+  {
+    "dex": "main",
+    "number": "137",
+    "name": "Pink tall grass",
+    "pokemon": [{ "id": "Trapinch" }, { "id": "Vibrava" }, { "id": "Flygon" }, { "id": "Swablu" }, { "id": "Duskull", "condition": "night only" }],
+    "items": ["4 pink tall grass"],
+    "img": "images/137.avif"
+  },
+  {
+    "dex": "main",
+    "number": "138",
+    "name": "Tree-shaded pink tall grass",
+    "pokemon": [{ "id": "Sprigatito" }, { "id": "Dreepy" }, { "id": "Drakloak" }, { "id": "Pupitar" }],
+    "items": ["1 large tree (any)", "4 pink tall grass"],
+    "img": "images/138.avif"
+  },
+  {
+    "dex": "main",
+    "number": "139",
+    "name": "Hydrated pink tall grass",
+    "pokemon": [{ "id": "Froakie" }, { "id": "Frogadier" }, { "id": "Greninja" }],
+    "items": ["4 pink tall grass", "2 water"],
+    "img": "images/139.avif"
+  },
+  {
+    "dex": "main",
+    "number": "140",
+    "name": "Elevated pink tall grass",
+    "pokemon": [{ "id": "Corvisquire" }, { "id": "Corviknight" }, { "id": "Wattrel" }, { "id": "Kilowattrel" }],
+    "items": ["4 pink tall grass", "1 high-up location"],
+    "img": "images/140.avif"
+  },
+  {
+    "dex": "main",
+    "number": "141",
+    "name": "Concrete pipe secret base",
+    "pokemon": [{ "id": "Cyndaquil" }, { "id": "Quilava" }],
+    "items": ["3 concrete pipes", "4 tall grass (any)"],
+    "img": "images/141.avif"
+  },
+  {
+    "dex": "main",
+    "number": "142",
+    "name": "Fluffy flower bed",
+    "pokemon": [{ "id": "Vulpix" }, { "id": "Ninetales" }, { "id": "Rookidee" }, { "id": "Misdreavus", "condition": "night only" }, { "id": "Mismagius", "condition": "night only" }],
+    "items": ["4 skyland flowers"],
+    "img": "images/142.avif"
+  },
+  {
+    "dex": "main",
+    "number": "143",
+    "name": "Tree-shaded fluffy flower bed",
+    "pokemon": [{ "id": "Girafarig" }, { "id": "Farigiraf" }, { "id": "Servine" }, { "id": "Serperior" }],
+    "items": ["1 large tree (any)", "4 skyland flowers"],
+    "img": "images/143.avif"
+  },
+  {
+    "dex": "main",
+    "number": "144",
+    "name": "Hydrated fluffy flower bed",
+    "pokemon": [{ "id": "Dratini" }, { "id": "Dragonair" }, { "id": "Poliwhirl" }],
+    "items": ["4 skyland flowers", "2 water"],
+    "img": "images/144.avif"
+  },
+  {
+    "dex": "main",
+    "number": "145",
+    "name": "Waterside dinghy",
+    "pokemon": [{ "id": "Dragonite" }],
+    "items": ["1 canoe", "2 duckweed", "2 water", "1 high-up location"],
+    "img": "images/145.avif"
+  },
+  {
+    "dex": "main",
+    "number": "146",
+    "name": "Illuminated waterfall",
+    "pokemon": [{ "id": "Gyarados" }],
+    "items": ["3 stepping stones", "2 lit torches", "3 water", "1 waterfall"],
+    "img": "images/146.avif"
+  },
+  {
+    "dex": "main",
+    "number": "147",
+    "name": "Birdsong garden",
+    "pokemon": [{ "id": "Altaria" }],
+    "items": ["1 stylish hedge", "1 wooden birdhouse"],
+    "img": "images/147.avif"
+  },
+  {
+    "dex": "main",
+    "number": "148",
+    "name": "Simple bathroom",
+    "pokemon": [{ "id": "Dratini" }, { "id": "Dragonair" }],
+    "items": ["1 shower", "1 bathtub"],
+    "img": "images/148.avif"
+  },
+  {
+    "dex": "main",
+    "number": "149",
+    "name": "Cycling rest stop",
+    "pokemon": [{ "id": "Beldum" }],
+    "items": ["1 bike", "1 powered vending machine"],
+    "img": "images/149.avif"
+  },
+  {
+    "dex": "main",
+    "number": "150",
+    "name": "Fireplace nap spot",
+    "pokemon": [{ "id": "Quilava" }, { "id": "Typhlosion" }],
+    "items": ["1 lit stone fireplace", "1 seat (wide)"],
+    "img": "images/150.avif"
+  },
+  {
+    "dex": "main",
+    "number": "151",
+    "name": "Surging psychic power",
+    "pokemon": [{ "id": "Abra" }, { "id": "Alakazam" }],
+    "items": ["1 simple cushion", "1 crystal ball"],
+    "img": "images/151.avif"
+  },
+  {
+    "dex": "main",
+    "number": "152",
+    "name": "Fortune-teller's table",
+    "pokemon": [{ "id": "Abra" }, { "id": "Kadabra" }],
+    "items": ["2 seats (any)", "1 table (any)", "1 crystal ball"],
+    "img": "images/152.avif"
+  },
+  {
+    "dex": "main",
+    "number": "153",
+    "name": "Trash site TV",
+    "pokemon": [{ "id": "Dusclops", "condition": "night only" }, { "id": "Dusknoir", "condition": "night only" }],
+    "items": ["2 garbage bags", "1 powered television"],
+    "img": "images/153.avif"
+  },
+  {
+    "dex": "main",
+    "number": "154",
+    "name": "Oversized dumping ground",
+    "pokemon": [{ "id": "Tinkatink", "condition": "Palette Town only" }, { "id": "Tinkaton" }],
+    "items": ["3 iron beams or columns", "1 tires", "1 waste bin (any)", "1 microwave oven"],
+    "img": "images/154.avif"
+  },
+  {
+    "dex": "main",
+    "number": "155",
+    "name": "Interrogation desk",
+    "pokemon": [{ "id": "Sprigatito" }, { "id": "Floragato" }],
+    "items": ["1 Arcanine doll", "2 folding chairs", "1 industrial desk", "1 lit desk light"],
+    "img": "images/155.avif"
+  },
+  {
+    "dex": "main",
+    "number": "156",
+    "name": "Sewer-hole inspection",
+    "pokemon": [{ "id": "Tinkatuff", "condition": "Palette Town only" }, { "id": "Corviknight" }, { "id": "Poliwrath" }],
+    "items": ["1 iron pipes", "1 sewer-hole cover", "1 excavation tools", "1 traffic cone"],
+    "img": "images/156.avif"
+  },
+  {
+    "dex": "main",
+    "number": "157",
+    "name": "Spotless washing station",
+    "pokemon": [{ "id": "Mime Jr." }, { "id": "Mr. Mime" }],
+    "items": ["1 towel rack", "1 wall mirror", "1 sink"],
+    "img": "images/157.avif"
+  },
+  {
+    "dex": "main",
+    "number": "158",
+    "name": "Home theater",
+    "pokemon": [{ "id": "Mismagius", "condition": "night only" }],
+    "items": ["2 speakers", "1 stand (any)", "1 powered television"],
+    "img": "images/158.avif"
+  },
+  {
+    "dex": "main",
+    "number": "159",
+    "name": "Study area",
+    "pokemon": [{ "id": "Ralts" }, { "id": "Kirlia" }],
+    "items": ["1 bookcase", "1 seat (any)", "1 table (any)", "1 pencil holder"],
+    "img": "images/159.avif"
+  },
+  {
+    "dex": "main",
+    "number": "160",
+    "name": "Rhythmic living room",
+    "pokemon": [{ "id": "Noibat" }, { "id": "Noivern" }],
+    "items": ["2 speakers", "4 music mats (any)", "1 powered television"],
+    "img": "images/160.avif"
+  },
+  {
+    "dex": "main",
+    "number": "161",
+    "name": "Squeaky clean",
+    "pokemon": [{ "id": "Poliwag" }],
+    "items": ["1 bathtub", "1 cleaning supplies"],
+    "img": "images/161.avif"
+  },
+  {
+    "dex": "main",
+    "number": "162",
+    "name": "Moisturizing makeup stand",
+    "pokemon": [{ "id": "Kirlia" }, { "id": "Gardevoir" }],
+    "items": ["1 dresser (any)", "1 seat (any)", "1 humidifier"],
+    "img": "images/162.avif"
+  },
+  {
+    "dex": "main",
+    "number": "163",
+    "name": "Mini library",
+    "pokemon": [{ "id": "Gardevoir" }],
+    "items": ["2 bookcases", "1 step stool", "1 table (any)", "1 powered lighting (any)"],
+    "img": "images/163.avif"
+  },
+  {
+    "dex": "main",
+    "number": "164",
+    "name": "Game Corner battle zone",
+    "pokemon": [{ "id": "Porygon-Z" }],
+    "items": ["2 powered arcade machines", "2 seats (any)"],
+    "img": "images/164.avif"
+  },
+  {
+    "dex": "main",
+    "number": "165",
+    "name": "Playland",
+    "pokemon": [{ "id": "Snivy", "condition": "Sparkling Skylands only" }],
+    "items": ["1 slide", "1 toy (any)"],
+    "img": "images/165.avif"
+  },
+  {
+    "dex": "main",
+    "number": "166",
+    "name": "Work desk",
+    "pokemon": [{ "id": "Porygon2" }],
+    "items": ["1 office desk", "1 laptop", "1 mug", "1 office chair"],
+    "img": "images/166.avif"
+  },
+  {
+    "dex": "main",
+    "number": "167",
+    "name": "Office storeroom",
+    "pokemon": [{ "id": "Misdreavus", "condition": "night only" }, { "id": "Mismagius", "condition": "night only" }, { "id": "Drakloak" }, { "id": "Dragapult" }],
+    "items": ["1 office shelf", "1 step stool", "1 cardboard boxes"],
+    "img": "images/167.avif"
+  },
+  {
+    "dex": "main",
+    "number": "168",
+    "name": "Experiment space",
+    "pokemon": [{ "id": "Alakazam" }],
+    "items": ["1 science experiment", "1 microscope", "1 papers"],
+    "img": "images/168.avif"
+  },
+  {
+    "dex": "main",
+    "number": "169",
+    "name": "Professor's apprentice program",
+    "pokemon": [{ "id": "Metang" }],
+    "items": ["1 whiteboard", "1 table (any)", "1 jumbled cords", "1 laptop"],
+    "img": "images/169.avif"
+  },
+  {
+    "dex": "main",
+    "number": "170",
+    "name": "Researcher's desk",
+    "pokemon": [{ "id": "Porygon" }],
+    "items": ["2 tables (any)", "1 powered computer", "1 science experiment"],
+    "img": "images/170.avif"
+  },
+  {
+    "dex": "main",
+    "number": "171",
+    "name": "Public reading material",
+    "pokemon": [{ "id": "Mime Jr." }, { "id": "Serperior" }],
+    "items": ["1 magazine rack", "1 newspaper"],
+    "img": "images/171.avif"
+  },
+  {
+    "dex": "main",
+    "number": "172",
+    "name": "Heart-pounding surprise box",
+    "pokemon": [{ "id": "Meowscarada" }],
+    "items": ["2 lit spotlights", "1 big drum", "1 boo-in-the-box"],
+    "img": "images/172.avif"
+  },
+  {
+    "dex": "main",
+    "number": "173",
+    "name": "Prank button",
+    "pokemon": [{ "id": "Frogadier" }, { "id": "Greninja" }],
+    "items": ["1 floor switch", "1 boo-in-the-box"],
+    "img": "images/173.avif"
+  },
+  {
+    "dex": "main",
+    "number": "174",
+    "name": "Picturesque photo cutout board",
+    "pokemon": [{ "id": "Plusle" }, { "id": "Minun" }],
+    "items": ["1 photo cutout board", "2 powered spotlights", "1 high-up location"],
+    "img": "images/174.avif"
+  },
+  {
+    "dex": "main",
+    "number": "175",
+    "name": "Tire park",
+    "pokemon": [{ "id": "Dedenne", "condition": "Sparkling Skylands only" }],
+    "items": ["1 slide", "1 tires", "2 tire toys"],
+    "img": "images/175.avif"
+  },
+  {
+    "dex": "main",
+    "number": "176",
+    "name": "Nature's market",
+    "pokemon": [{ "id": "Raichu" }],
+    "items": ["1 large tree (any)", "1 large boulder", "2 tables (any)", "1 powered cash register"],
+    "img": "images/176.avif"
+  },
+  {
+    "dex": "main",
+    "number": "177",
+    "name": "Construction-site generator",
+    "pokemon": [{ "id": "Conkeldurr" }],
+    "items": ["1 furnace", "2 iron scaffold", "1 iron pipes"],
+    "img": "images/177.avif"
+  },
+  {
+    "dex": "main",
+    "number": "178",
+    "name": "Dojo training",
+    "pokemon": [{ "id": "Poliwrath" }, { "id": "Gallade" }],
+    "items": ["2 hanging scrolls", "2 strength rocks"],
+    "img": "images/178.avif"
+  },
+  {
+    "dex": "main",
+    "number": "179",
+    "name": "Evil organization HQ",
+    "pokemon": [{ "id": "Persian" }],
+    "items": ["2 potted plants (any)", "1 Team Rocket wall hanging", "1 luxury sofa"],
+    "img": "images/179.avif"
+  },
+  {
+    "dex": "main",
+    "number": "180",
+    "name": "Nine flames",
+    "pokemon": [{ "id": "Ninetales" }],
+    "items": ["9 lit firepits"],
+    "img": "images/180.avif"
+  },
+  {
+    "dex": "main",
+    "number": "181",
+    "name": "Plush central",
+    "pokemon": [{ "id": "Drifloon" }, { "id": "Drifblim" }],
+    "items": ["1 Arcanine doll", "1 Pikachu doll", "1 Dragonite doll", "1 Eevee doll"],
+    "img": "images/181.avif"
+  },
+  {
+    "dex": "main",
+    "number": "182",
+    "name": "Gamer's paradise",
+    "pokemon": [{ "id": "Metagross" }],
+    "items": ["1 gaming bed", "1 gaming PC", "1 gaming chair", "1 table (any)", "1 gaming fridge"],
+    "img": "images/182.avif"
+  },
+  {
+    "dex": "main",
+    "number": "183",
+    "name": "Top pop",
+    "pokemon": [{ "id": "Typhlosion" }],
+    "items": ["1 pop art bed", "1 pop art sofa", "1 pop art table"],
+    "img": "images/183.avif"
+  },
+  {
+    "dex": "main",
+    "number": "184",
+    "name": "Fishing pond",
+    "pokemon": [{ "id": "Slowbro" }, { "id": "Slowking" }],
+    "items": ["1 fishing rod", "1 seat (any)", "1 water"],
+    "img": "images/184.avif"
+  },
+  {
+    "dex": "main",
+    "number": "185",
+    "name": "Ocean fishing spot",
+    "pokemon": [{ "id": "Magikarp" }, { "id": "Gastrodon" }],
+    "items": ["1 fishing rod", "1 seat (any)", "1 ocean water"],
+    "img": "images/185.avif"
+  },
+  {
+    "dex": "main",
+    "number": "186",
+    "name": "Marsh fishing spot",
+    "pokemon": [{ "id": "Grimer" }, { "id": "Muk" }, { "id": "Clodsire" }],
+    "items": ["1 fishing rod", "1 seat (any)", "1 muddy water"],
+    "img": "images/186.avif"
+  },
+  {
+    "dex": "main",
+    "number": "187",
+    "name": "Hot-spring fishing spot",
+    "pokemon": [{ "id": "Lotad" }, { "id": "Lombre" }],
+    "items": ["1 fishing rod", "1 seat (any)", "1 hot-spring water"],
+    "img": "images/187.avif"
+  },
+  {
+    "dex": "main",
+    "number": "188",
+    "name": "Magma fishing spot",
+    "pokemon": [{ "id": "Arcanine" }],
+    "items": ["1 fishing rod", "1 seat (any)", "1 lava"],
+    "img": "images/188.avif"
+  },
+  {
+    "dex": "main",
+    "number": "189",
+    "name": "Amped rock stage",
+    "pokemon": [{ "id": "Toxtricity Amped Form" }],
+    "items": ["2 speakers", "1 powered small stage", "1 cool electric guitar", "1 standing mic"],
+    "img": "images/189.avif"
+  },
+  {
+    "dex": "main",
+    "number": "190",
+    "name": "Low-key rock stage",
+    "pokemon": [{ "id": "Toxtricity Low Key Form" }],
+    "items": ["2 speakers", "1 powered small stage", "1 cool bass guitar", "1 standing mic"],
+    "img": "images/190.avif"
+  },
+  {
+    "dex": "main",
+    "number": "191",
+    "name": "Malicious knight's shrine",
+    "pokemon": [{ "id": "Ceruledge" }],
+    "items": ["1 pedestal/exhibition stand", "1 Malicious Armor", "2 stepping stones", "2 lit firepits"],
+    "img": "images/191.avif"
+  },
+  {
+    "dex": "main",
+    "number": "192",
+    "name": "Auspicious knight's shrine",
+    "pokemon": [{ "id": "Armarogue" }],
+    "items": ["1 pedestal/exhibition stand", "1 Auspicious Armor", "2 stepping stones", "2 lit firepits"],
+    "img": "images/192.avif"
+  },
+  {
+    "dex": "main",
+    "number": "193",
+    "name": "Wing Fossil display",
+    "pokemon": [{ "id": "Aerodactyl" }],
+    "items": ["1 pedestal/exhibition stand", "1 Wing Fossil (head)", "1 Wing Fossil (right wing)", "1 Wing Fossil (left wing)", "1 Wing Fossil (body)", "1 Wing Fossil (tail)"],
+    "img": "images/193.avif"
+  },
+  {
+    "dex": "main",
+    "number": "194",
+    "name": "Skull Fossil display",
+    "pokemon": [{ "id": "Cranidos" }],
+    "items": ["1 pedestal/exhibition stand", "1 Skull Fossil"],
+    "img": "images/194.avif"
+  },
+  {
+    "dex": "main",
+    "number": "195",
+    "name": "Headbutt Fossil display",
+    "pokemon": [{ "id": "Rampardos" }],
+    "items": ["1 pedestal/exhibition stand", "1 Headbutt Fossil (head)", "1 Headbutt Fossil (body)", "1 Headbutt Fossil (tail)"],
+    "img": "images/195.avif"
+  },
+  {
+    "dex": "main",
+    "number": "196",
+    "name": "Armor Fossil display",
+    "pokemon": [{ "id": "Shieldon" }],
+    "items": ["1 pedestal/exhibition stand", "1 Armor Fossil"],
+    "img": "images/196.avif"
+  },
+  {
+    "dex": "main",
+    "number": "197",
+    "name": "Shield Fossil display",
+    "pokemon": [{ "id": "Bastiodon" }],
+    "items": ["2 pedestal/exhibition stand", "1 Shield Fossil (head)", "1 Shield Fossil (body)", "1 Shield Fossil (tail)"],
+    "img": "images/197.avif"
+  },
+  {
+    "dex": "main",
+    "number": "198",
+    "name": "Jaw Fossil display",
+    "pokemon": [{ "id": "Tyrunt" }],
+    "items": ["1 pedestal/exhibition stand", "1 Jaw Fossil"],
+    "img": "images/198.avif"
+  },
+  {
+    "dex": "main",
+    "number": "199",
+    "name": "Despot Fossil display",
+    "pokemon": [{ "id": "Tyrantrum" }],
+    "items": ["2 pedestal/exhibition stand", "1 Despot Fossil (head)", "1 Despot Fossil (body)", "1 Despot Fossil (legs)", "1 Despot Fossil (tail)"],
+    "img": "images/199.avif"
+  },
+  {
+    "dex": "main",
+    "number": "200",
+    "name": "Sail Fossil display",
+    "pokemon": [{ "id": "Amaura" }],
+    "items": ["1 pedestal/exhibition stand", "1 Sail Fossil"],
+    "img": "images/200.avif"
+  },
+  {
+    "dex": "main",
+    "number": "201",
+    "name": "Tundra Fossil display",
+    "pokemon": [{ "id": "Aurorus" }],
+    "items": ["1 pedestal/exhibition stand", "1 Tundra Fossil (head)", "1 Tundra Fossil (body)", "1 Tundra Fossil (trail)"],
+    "img": "images/201.avif"
+  },
+  {
+    "dex": "main",
+    "number": "202",
+    "name": "Boundless beverage",
+    "pokemon": [{ "id": "Vaporeon", "condition": "Palette Town only" }],
+    "items": ["1 seat (any)", "1 table (any)", "1 soda float"],
+    "img": "images/202.avif"
+  },
+  {
+    "dex": "main",
+    "number": "203",
+    "name": "Electrifying potatoes",
+    "pokemon": [{ "id": "Jolteon", "condition": "Palette Town only" }],
+    "items": ["1 seat (any)", "1 table (any)", "1 fried potatoes"],
+    "img": "images/203.avif"
+  },
+  {
+    "dex": "main",
+    "number": "204",
+    "name": "Burning-hot spice",
+    "pokemon": [{ "id": "Flareon", "condition": "Palette Town only" }],
+    "items": ["1 seat (any)", "1 table (any)", "1 pizza"],
+    "img": "images/204.avif"
+  },
+  {
+    "dex": "main",
+    "number": "205",
+    "name": "Elegant daytime treats",
+    "pokemon": [{ "id": "Espeon", "condition": "Palette Town only, day only" }],
+    "items": ["1 seat (any)", "1 table (any)", "1 afternoon tea set"],
+    "img": "images/205.avif"
+  },
+  {
+    "dex": "main",
+    "number": "206",
+    "name": "Dark-chocolate cookies",
+    "pokemon": [{ "id": "Umbreon", "condition": "Palette Town only, night only" }],
+    "items": ["1 seat (any)", "1 table (any)", "1 chocolate cookies"],
+    "img": "images/206.avif"
+  },
+  {
+    "dex": "main",
+    "number": "207",
+    "name": "Leafy greens sandwich",
+    "pokemon": [{ "id": "Leafeon", "condition": "Palette Town only" }],
+    "items": ["1 seat (any)", "1 table (any)", "1 sandwiches"],
+    "img": "images/207.avif"
+  },
+  {
+    "dex": "main",
+    "number": "208",
+    "name": "Chilly shaved ice",
+    "pokemon": [{ "id": "Glaceon", "condition": "Palette Town only" }],
+    "items": ["1 seat (any)", "1 table (any)", "1 shaved ice"],
+    "img": "images/208.avif"
+  },
+  {
+    "dex": "main",
+    "number": "209",
+    "name": "Lovely ribbon cake",
+    "pokemon": [{ "id": "Sylveon", "condition": "Palette Town only" }],
+    "items": ["1 seat (any)", "1 table (any)", "1 ribbon cake"],
+    "img": "images/209.avif"
+  },
+  {
+  "dex": "event",
+  "number": "001",
+  "name": "Yellow carpet",
+  "pokemon": [{ "id": "Hoppip" }, { "id": "Skiploom" }, { "id": "Jumpluff" }],
+  "items": ["4 Dandy flowers"],
+  "img": "images/e001.avif"
+  }
+  ,
+  {
+  "dex": "event",
+  "number": "001",
+  "name": "Field-trip friends",
+  "pokemon": [{ "id": "Skiploom" }],
+  "items": ["1 Flower backpack", "1 Hoppip water bottle", "1 Lunch box"],
+  "img": "images/e002.avif"
+  },
+  {
+  "dex": "event",
+  "number": "001",
+  "name": "Dandelion lunchtime",
+  "pokemon": [{ "id": "Jumpluff" }],
+  "items": ["1 Dandy flowers", "1 Flower cushion", "1 Lunch box", "1 Flowery table setting"],
+  "img": "images/e003.avif"
+  }
+]

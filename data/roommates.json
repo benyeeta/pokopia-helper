@@ -1,0 +1,2524 @@
+[
+  {
+    "dex": "main",
+    "number": "001",
+    "pokemon": "Bulbasaur",
+    "habitat": "Bright",
+    "skills": ["Grow"],
+    "favorites": ["lots of nature", "soft stuff", "cute stuff", "lots of water", "group activities", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "002",
+    "pokemon": "Ivysaur",
+    "habitat": "Bright",
+    "skills": ["Grow"],
+    "favorites": ["lots of nature", "soft stuff", "cute stuff", "pretty flowers", "colorful stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "003",
+    "pokemon": "Venusaur",
+    "habitat": "Bright",
+    "skills": ["Grow", "Litter"],
+    "litter_drop": "Leaf",
+    "favorites": ["lots of nature", "soft stuff", "cute stuff", "pretty flowers", "luxury", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "004",
+    "pokemon": "Charmander",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "wooden stuff", "hard stuff", "exercise", "group activities", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "005",
+    "pokemon": "Charmeleon",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "wooden stuff", "hard stuff", "exercise", "rides", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "006",
+    "pokemon": "Charizard",
+    "habitat": "Warm",
+    "skills": ["Burn", "Fly"],
+    "favorites": ["lots of fire", "nice breezes", "wooden stuff", "exercise", "luxury", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "007",
+    "pokemon": "Squirtle",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "cleanliness", "healing", "cute stuff", "group activities", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "008",
+    "pokemon": "Wartortle",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "cleanliness", "healing", "exercise", "hard stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "009",
+    "pokemon": "Blastoise",
+    "habitat": "Humid",
+    "skills": ["Water", "Trade"],
+    "favorites": ["lots of water", "cleanliness", "healing", "exercise", "luxury", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "010",
+    "pokemon": "Pidgey",
+    "habitat": "Bright",
+    "skills": ["Fly", "Search"],
+    "favorites": ["soft stuff", "nice breezes", "watching stuff", "lots of nature", "play spaces", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "011",
+    "pokemon": "Pidgeotto",
+    "habitat": "Bright",
+    "skills": ["Fly", "Search"],
+    "favorites": ["soft stuff", "nice breezes", "watching stuff", "lots of nature", "looks like food", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "012",
+    "pokemon": "Pidgeot",
+    "habitat": "Bright",
+    "skills": ["Fly", "Chop"],
+    "favorites": ["soft stuff", "nice breezes", "wooden stuff", "lots of nature", "luxury", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "013",
+    "pokemon": "Oddish",
+    "habitat": "Humid",
+    "skills": ["Grow"],
+    "favorites": ["lots of nature", "lots of dirt", "soft stuff", "pretty flowers", "lots of water", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "014",
+    "pokemon": "Gloom",
+    "habitat": "Humid",
+    "skills": ["Grow"],
+    "favorites": ["lots of nature", "lots of dirt", "soft stuff", "pretty flowers", "garbage", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "015",
+    "pokemon": "Vileplume",
+    "habitat": "Humid",
+    "skills": ["Grow", "Litter"],
+    "litter_drop": "Leaf",
+    "favorites": ["lots of nature", "lots of dirt", "soft stuff", "pretty flowers", "colorful stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "016",
+    "pokemon": "Bellossom",
+    "habitat": "Bright",
+    "skills": ["Grow", "Hype"],
+    "favorites": ["lots of nature", "pretty flowers", "play spaces", "cute stuff", "noisy stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "017",
+    "pokemon": "Paras",
+    "habitat": "Humid",
+    "skills": ["Search"],
+    "favorites": ["lots of nature", "wooden stuff", "watching stuff", "lots of dirt", "looks like food", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "018",
+    "pokemon": "Parasect",
+    "habitat": "Humid",
+    "skills": ["Search"],
+    "favorites": ["lots of nature", "wooden stuff", "watching stuff", "lots of dirt", "strange stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "019",
+    "pokemon": "Venonat",
+    "habitat": "Bright",
+    "skills": ["Search"],
+    "favorites": ["lots of nature", "wooden stuff", "watching stuff", "complicated stuff", "letters and words", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "020",
+    "pokemon": "Venomoth",
+    "habitat": "Bright",
+    "skills": ["Search"],
+    "favorites": ["lots of nature", "wooden stuff", "watching stuff", "nice breezes", "pretty flowers", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "021",
+    "pokemon": "Bellsprout",
+    "habitat": "Humid",
+    "skills": ["Grow", "Litter"],
+    "litter_drop": "Vine Rope",
+    "favorites": ["lots of nature", "wooden stuff", "lots of dirt", "lots of water", "pretty flowers", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "022",
+    "pokemon": "Weepinbell",
+    "habitat": "Humid",
+    "skills": ["Grow", "Litter"],
+    "litter_drop": "Vine Rope",
+    "favorites": ["lots of nature", "wooden stuff", "lots of dirt", "colorful stuff", "pretty flowers", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "023",
+    "pokemon": "Victreebel",
+    "habitat": "Humid",
+    "skills": ["Grow", "Chop"],
+    "favorites": ["lots of nature", "wooden stuff", "lots of dirt", "colorful stuff", "pretty flowers", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "024",
+    "pokemon": "Slowpoke",
+    "habitat": "Humid",
+    "skills": ["Water", "Yawn"],
+    "favorites": ["lots of water", "cleanliness", "strange stuff", "soft stuff", "healing", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "025",
+    "pokemon": "Slowbro",
+    "habitat": "Humid",
+    "skills": ["Water", "Trade"],
+    "favorites": ["lots of water", "cleanliness", "strange stuff", "group activities", "healing", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "026",
+    "pokemon": "Slowking",
+    "habitat": "Humid",
+    "skills": ["Water", "Teleport"],
+    "favorites": ["lots of water", "cleanliness", "strange stuff", "group activities", "healing", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "027",
+    "pokemon": "Magnemite",
+    "habitat": "Bright",
+    "skills": ["Generate"],
+    "favorites": ["electronics", "metal stuff", "shiny stuff", "hard stuff", "group activities", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "028",
+    "pokemon": "Magneton",
+    "habitat": "Bright",
+    "skills": ["Generate"],
+    "favorites": ["electronics", "metal stuff", "shiny stuff", "gatherings", "group activities", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "029",
+    "pokemon": "Magnezone",
+    "habitat": "Bright",
+    "skills": ["Generate", "Recycle"],
+    "favorites": ["electronics", "metal stuff", "luxury", "gatherings", "hard stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "030",
+    "pokemon": "Onix",
+    "habitat": "Dry",
+    "skills": ["Crush", "Bulldoze"],
+    "favorites": ["stone stuff", "lots of dirt", "blocky stuff", "slender objects", "exercise", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "031",
+    "pokemon": "Steelix",
+    "habitat": "Dry",
+    "skills": ["Crush", "Bulldoze"],
+    "favorites": ["metal stuff", "lots of dirt", "stone stuff", "slender objects", "hard stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "032",
+    "pokemon": "Cubone",
+    "habitat": "Dry",
+    "skills": ["Build"],
+    "favorites": ["lots of dirt", "construction", "exercise", "slender objects", "group activities", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "033",
+    "pokemon": "Marowak",
+    "habitat": "Dry",
+    "skills": ["Build"],
+    "favorites": ["lots of dirt", "construction", "exercise", "slender objects", "luxury", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "034",
+    "pokemon": "Tyrogue",
+    "habitat": "Bright",
+    "skills": ["Trade"],
+    "favorites": ["exercise", "group activities", "fabric", "stone stuff", "round stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "035",
+    "pokemon": "Hitmonlee",
+    "habitat": "Bright",
+    "skills": ["Trade"],
+    "favorites": ["exercise", "group activities", "fabric", "stone stuff", "round stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "036",
+    "pokemon": "Hitmonchan",
+    "habitat": "Bright",
+    "skills": ["Trade"],
+    "favorites": ["exercise", "group activities", "fabric", "stone stuff", "round stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "037",
+    "pokemon": "Hitmontop",
+    "habitat": "Bright",
+    "skills": ["Trade"],
+    "favorites": ["exercise", "group activities", "fabric", "stone stuff", "round stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "038",
+    "pokemon": "Koffing",
+    "habitat": "Dark",
+    "skills": ["Recycle"],
+    "favorites": ["garbage", "gatherings", "complicated stuff", "soft stuff", "wobbly stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "039",
+    "pokemon": "Weezing",
+    "habitat": "Dark",
+    "skills": ["Recycle"],
+    "favorites": ["garbage", "gatherings", "complicated stuff", "soft stuff", "wobbly stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "040",
+    "pokemon": "Tangela",
+    "habitat": "Bright",
+    "skills": ["Grow", "Litter"],
+    "litter_drop": "Vine Rope",
+    "favorites": ["lots of nature", "lots of water", "gatherings", "pretty flowers", "slender objects", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "041",
+    "pokemon": "Professor Tangrowth",
+    "habitat": "Humid",
+    "skills": ["Appraise"],
+    "favorites": ["lots of nature", "complicated stuff", "letters and words", "strange stuff", "group activities", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "041",
+    "pokemon": "Tangrowth",
+    "habitat": "Humid",
+    "skills": ["Grow", "Litter"],
+    "litter_drop": "Vine Rope",
+    "favorites": ["lots of nature", "lots of water", "gatherings", "pretty flowers", "watching stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "042",
+    "pokemon": "Scyther",
+    "habitat": "Bright",
+    "skills": ["Chop"],
+    "favorites": ["lots of nature", "nice breezes", "wooden stuff", "sharp stuff", "exercise", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "043",
+    "pokemon": "Scizor",
+    "habitat": "Bright",
+    "skills": ["Chop"],
+    "favorites": ["lots of nature", "metal stuff", "wooden stuff", "hard stuff", "exercise", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "044",
+    "pokemon": "Pinsir",
+    "habitat": "Bright",
+    "skills": ["Chop", "Build"],
+    "favorites": ["lots of nature", "wooden stuff", "pretty flowers", "sharp stuff", "exercise", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "045",
+    "pokemon": "Magikarp",
+    "habitat": "Humid",
+    "skills": ["???"],
+    "favorites": ["lots of water", "ocean vibes", "group activities", "rides", "wobbly stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "046",
+    "pokemon": "Gyarados",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "ocean vibes", "nice breezes", "cleanliness", "slender objects", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "047",
+    "pokemon": "Ditto",
+    "habitat": "Bright",
+    "skills": ["Transform"],
+    "favorites": ["none"]
+  },
+  {
+    "dex": "main",
+    "number": "048",
+    "pokemon": "Hoothoot",
+    "habitat": "Dark",
+    "skills": ["Trade", "Fly"],
+    "favorites": ["soft stuff", "nice breezes", "fabric", "wobbly stuff", "watching stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "049",
+    "pokemon": "Noctowl",
+    "habitat": "Dark",
+    "skills": ["Trade", "Fly"],
+    "favorites": ["soft stuff", "nice breezes", "letters and words", "containers", "watching stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "050",
+    "pokemon": "Heracross",
+    "habitat": "Bright",
+    "skills": ["Chop", "Build"],
+    "favorites": ["lots of nature", "wooden stuff", "pretty flowers", "looks like food", "exercise", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "051",
+    "pokemon": "Volbeat",
+    "habitat": "Dark",
+    "skills": ["Hype"],
+    "favorites": ["lots of nature", "wooden stuff", "shiny stuff", "cute stuff", "group activities", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "052",
+    "pokemon": "Illumise",
+    "habitat": "Dark",
+    "skills": ["Hype"],
+    "favorites": ["lots of nature", "wooden stuff", "shiny stuff", "cute stuff", "group activities", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "053",
+    "pokemon": "Gulpin",
+    "habitat": "Humid",
+    "skills": ["Storage"],
+    "favorites": ["cute stuff", "looks like food", "round stuff", "containers", "colorful stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "054",
+    "pokemon": "Swalot",
+    "habitat": "Humid",
+    "skills": ["Storage"],
+    "favorites": ["garbage", "looks like food", "round stuff", "containers", "colorful stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "055",
+    "pokemon": "Cacnea",
+    "habitat": "Dry",
+    "skills": ["Grow"],
+    "favorites": ["lots of nature", "pretty flowers", "cute stuff", "round stuff", "sharp stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "056",
+    "pokemon": "Cacturne",
+    "habitat": "Dry",
+    "skills": ["Grow", "Litter"],
+    "litter_drop": "Sturdy Stick",
+    "favorites": ["lots of nature", "nice breezes", "luxury", "shiny stuff", "sharp stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "057",
+    "pokemon": "Combee",
+    "habitat": "Bright",
+    "skills": ["Litter"],
+    "litter_drop": "Honey",
+    "favorites": ["lots of nature", "nice breezes", "wooden stuff", "gatherings", "group activities", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "058",
+    "pokemon": "Vespiquen",
+    "habitat": "Bright",
+    "skills": ["Gather Honey", "Search"],
+    "favorites": ["lots of nature", "nice breezes", "wooden stuff", "gatherings", "complicated stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "059",
+    "pokemon": "Shellos",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "ocean vibes", "cleanliness", "colorful stuff", "containers", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "059",
+    "pokemon": "Shellos East Sea",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "ocean vibes", "cleanliness", "colorful stuff", "containers", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "060",
+    "pokemon": "Gastrodon",
+    "habitat": "Humid",
+    "skills": ["Water", "Trade"],
+    "favorites": ["lots of water", "lots of dirt", "ocean vibes", "cleanliness", "containers", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "060",
+    "pokemon": "Gastrodon East Sea",
+    "habitat": "Humid",
+    "skills": ["Water", "Trade"],
+    "favorites": ["lots of water", "lots of dirt", "ocean vibes", "cleanliness", "containers", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "061",
+    "pokemon": "Drifloon",
+    "habitat": "Warm",
+    "skills": ["Dream Island"],
+    "favorites": ["spooky stuff", "strange stuff", "nice breezes", "cute stuff", "round stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "062",
+    "pokemon": "Drifblim",
+    "habitat": "Warm",
+    "skills": ["Fly", "Gather"],
+    "favorites": ["spooky stuff", "strange stuff", "nice breezes", "wobbly stuff", "spinning stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "063",
+    "pokemon": "Drilbur",
+    "habitat": "Dark",
+    "skills": ["Search"],
+    "favorites": ["lots of dirt", "stone stuff", "lots of nature", "watching stuff", "sharp stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "064",
+    "pokemon": "Excadrill",
+    "habitat": "Dark",
+    "skills": ["Search", "Chop"],
+    "favorites": ["lots of dirt", "metal stuff", "exercise", "watching stuff", "sharp stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "065",
+    "pokemon": "Timburr",
+    "habitat": "Bright",
+    "skills": ["Build"],
+    "favorites": ["exercise", "construction", "wooden stuff", "slender objects", "blocky stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "066",
+    "pokemon": "Gurdurr",
+    "habitat": "Bright",
+    "skills": ["Build"],
+    "favorites": ["exercise", "construction", "metal stuff", "slender objects", "group activities", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "067",
+    "pokemon": "Conkeldurr",
+    "habitat": "Bright",
+    "skills": ["Build", "Crush"],
+    "favorites": ["exercise", "construction", "stone stuff", "slender objects", "group activities", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "068",
+    "pokemon": "Litwick",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["spooky stuff", "strange stuff", "lots of fire", "wobbly stuff", "blocky stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "069",
+    "pokemon": "Lampent",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["spooky stuff", "strange stuff", "lots of fire", "wobbly stuff", "containers", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "070",
+    "pokemon": "Chandelure",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["spooky stuff", "strange stuff", "lots of fire", "wobbly stuff", "watching stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "071",
+    "pokemon": "Axew",
+    "habitat": "Dark",
+    "skills": ["Chop"],
+    "favorites": ["lots of fire", "luxury", "lots of dirt", "hard stuff", "sharp stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "072",
+    "pokemon": "Fraxure",
+    "habitat": "Dark",
+    "skills": ["Chop"],
+    "favorites": ["lots of fire", "luxury", "lots of dirt", "exercise", "sharp stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "073",
+    "pokemon": "Haxorus",
+    "habitat": "Dark",
+    "skills": ["Chop", "Litter"],
+    "litter_drop": "Small log",
+    "favorites": ["lots of fire", "luxury", "lots of dirt", "exercise", "sharp stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "074",
+    "pokemon": "Goomy",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "luxury", "lots of nature", "cleanliness", "healing", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "075",
+    "pokemon": "Sliggoo",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "luxury", "soft stuff", "cleanliness", "healing", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "076",
+    "pokemon": "Goodra",
+    "habitat": "Humid",
+    "skills": ["Water", "Trade"],
+    "favorites": ["lots of water", "luxury", "exercise", "cleanliness", "healing", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "077",
+    "pokemon": "Cramorant",
+    "habitat": "Humid",
+    "skills": ["Fly", "Water"],
+    "favorites": ["nice breezes", "lots of water", "ocean vibes", "slender objects", "looks like food", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "078",
+    "pokemon": "Pichu",
+    "habitat": "Bright",
+    "skills": ["Generate"],
+    "favorites": ["electronics", "glass stuff", "cute stuff", "pretty flowers", "fabric", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "079",
+    "pokemon": "Peakychu",
+    "habitat": "Bright",
+    "skills": ["Illuminate"],
+    "favorites": ["electronics", "glass stuff", "cute stuff", "healing", "letters and words", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "079",
+    "pokemon": "Pikachu",
+    "habitat": "Bright",
+    "skills": ["Generate"],
+    "favorites": ["electronics", "glass stuff", "group activities", "round stuff", "rides", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "080",
+    "pokemon": "Raichu",
+    "habitat": "Bright",
+    "skills": ["Generate", "Hype"],
+    "favorites": ["electronics", "glass stuff", "group activities", "round stuff", "play spaces", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "081",
+    "pokemon": "Zubat",
+    "habitat": "Dark",
+    "skills": ["Search"],
+    "favorites": ["spooky stuff", "nice breezes", "wooden stuff", "noisy stuff", "complicated stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "082",
+    "pokemon": "Golbat",
+    "habitat": "Dark",
+    "skills": ["Search"],
+    "favorites": ["spooky stuff", "nice breezes", "wooden stuff", "noisy stuff", "complicated stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "083",
+    "pokemon": "Crobat",
+    "habitat": "Dark",
+    "skills": ["Search", "Chop"],
+    "favorites": ["spooky stuff", "nice breezes", "wooden stuff", "garbage", "watching stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "084",
+    "pokemon": "Meowth",
+    "habitat": "Cool",
+    "skills": ["Trade"],
+    "favorites": ["containers", "group activities", "shiny stuff", "glass stuff", "luxury", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "085",
+    "pokemon": "Persian",
+    "habitat": "Cool",
+    "skills": ["Trade", "Search"],
+    "favorites": ["containers", "group activities", "shiny stuff", "watching stuff", "luxury", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "086",
+    "pokemon": "Psyduck",
+    "habitat": "Humid",
+    "skills": ["Search"],
+    "favorites": ["lots of water", "ocean vibes", "strange stuff", "complicated stuff", "healing", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "087",
+    "pokemon": "Golduck",
+    "habitat": "Humid",
+    "skills": ["Search"],
+    "favorites": ["lots of water", "ocean vibes", "strange stuff", "complicated stuff", "sharp stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "088",
+    "pokemon": "Growlithe",
+    "habitat": "Warm",
+    "skills": ["Burn", "Search"],
+    "favorites": ["lots of fire", "stone stuff", "nice breezes", "letters and words", "pretty flowers", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "089",
+    "pokemon": "Arcanine",
+    "habitat": "Warm",
+    "skills": ["Burn", "Search"],
+    "favorites": ["lots of fire", "stone stuff", "nice breezes", "watching stuff", "symbols", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "090",
+    "pokemon": "Farfetch'd",
+    "habitat": "Warm",
+    "skills": ["Chop", "Build"],
+    "favorites": ["soft stuff", "nice breezes", "wooden stuff", "slender objects", "exercise", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "091",
+    "pokemon": "Grimer",
+    "habitat": "Dark",
+    "skills": ["Litter"],
+    "litter_drop": "Nonburnable Garbage",
+    "favorites": ["garbage", "spooky stuff", "gatherings", "shiny stuff", "containers", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "092",
+    "pokemon": "Muk",
+    "habitat": "Dark",
+    "skills": ["Litter"],
+    "litter_drop": "Nonburnable Garbage",
+    "favorites": ["garbage", "spooky stuff", "gatherings", "shiny stuff", "colorful stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "093",
+    "pokemon": "Gastly",
+    "habitat": "Dark",
+    "skills": ["Gather", "Trade"],
+    "favorites": ["spooky stuff", "strange stuff", "garbage", "containers", "group activities", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "094",
+    "pokemon": "Haunter",
+    "habitat": "Dark",
+    "skills": ["Gather", "Trade"],
+    "favorites": ["spooky stuff", "strange stuff", "garbage", "wobbly stuff", "group activities", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "095",
+    "pokemon": "Gengar",
+    "habitat": "Dark",
+    "skills": ["Gather", "Trade"],
+    "favorites": ["spooky stuff", "strange stuff", "garbage", "rides", "group activities", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "096",
+    "pokemon": "Voltorb",
+    "habitat": "Bright",
+    "skills": ["Generate", "Explode"],
+    "favorites": ["electronics", "shiny stuff", "round stuff", "colorful stuff", "spinning stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "097",
+    "pokemon": "Electrode",
+    "habitat": "Bright",
+    "skills": ["Generate", "Explode"],
+    "favorites": ["electronics", "shiny stuff", "round stuff", "play spaces", "spinning stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "098",
+    "pokemon": "Exeggcute",
+    "habitat": "Bright",
+    "skills": ["Grow", "Teleport"],
+    "favorites": ["lots of nature", "strange stuff", "gatherings", "watching stuff", "group activities", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "099",
+    "pokemon": "Exeggutor",
+    "habitat": "Bright",
+    "skills": ["Grow", "Teleport"],
+    "favorites": ["lots of nature", "strange stuff", "gatherings", "watching stuff", "wooden stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "100",
+    "pokemon": "Happiny",
+    "habitat": "Bright",
+    "skills": ["Trade"],
+    "favorites": ["soft stuff", "fabric", "healing", "round stuff", "containers", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "101",
+    "pokemon": "Chansey",
+    "habitat": "Bright",
+    "skills": ["Trade"],
+    "favorites": ["soft stuff", "fabric", "healing", "round stuff", "group activities", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "102",
+    "pokemon": "Blissey",
+    "habitat": "Bright",
+    "skills": ["Trade", "Litter"],
+    "litter_drop": "Stone",
+    "favorites": ["soft stuff", "fabric", "healing", "round stuff", "group activities", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "103",
+    "pokemon": "Elekid",
+    "habitat": "Bright",
+    "skills": ["Generate"],
+    "favorites": ["electronics", "glass stuff", "cute stuff", "round stuff", "spinning stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "104",
+    "pokemon": "Electabuzz",
+    "habitat": "Bright",
+    "skills": ["Generate"],
+    "favorites": ["electronics", "glass stuff", "lots of fire", "sharp stuff", "exercise", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "105",
+    "pokemon": "Electivire",
+    "habitat": "Bright",
+    "skills": ["Generate", "Crush"],
+    "favorites": ["electronics", "glass stuff", "lots of fire", "hard stuff", "exercise", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "106",
+    "pokemon": "Lapras",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "ocean vibes", "cleanliness", "watching stuff", "healing", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "107",
+    "pokemon": "Munchlax",
+    "habitat": "Warm",
+    "skills": ["Bulldoze"],
+    "favorites": ["soft stuff", "lots of nature", "looks like food", "wobbly stuff", "group activities", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "108",
+    "pokemon": "Mosslax",
+    "habitat": "Bright",
+    "skills": ["Eat"],
+    "favorites": ["soft stuff", "fabric", "looks like food", "watching stuff", "strange stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "108",
+    "pokemon": "Snorlax",
+    "habitat": "Warm",
+    "skills": ["Trade", "Bulldoze"],
+    "favorites": ["soft stuff", "fabric", "looks like food", "wobbly stuff", "rides", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "109",
+    "pokemon": "Spinarak",
+    "habitat": "Humid",
+    "skills": ["Litter"],
+    "litter_drop": "Twine",
+    "favorites": ["lots of nature", "wooden stuff", "garbage", "rides", "colorful stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "110",
+    "pokemon": "Ariados",
+    "habitat": "Humid",
+    "skills": ["Litter"],
+    "litter_drop": "Twine",
+    "favorites": ["lots of nature", "wooden stuff", "garbage", "rides", "colorful stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "111",
+    "pokemon": "Mareep",
+    "habitat": "Bright",
+    "skills": ["Generate", "Litter"],
+    "litter_drop": "Fluff",
+    "favorites": ["electronics", "shiny stuff", "glass stuff", "cute stuff", "fabric", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "112",
+    "pokemon": "Flaaffy",
+    "habitat": "Bright",
+    "skills": ["Generate", "Litter"],
+    "litter_drop": "Fluff",
+    "favorites": ["electronics", "shiny stuff", "glass stuff", "cute stuff", "rides", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "113",
+    "pokemon": "Ampharos",
+    "habitat": "Bright",
+    "skills": ["Generate", "Trade"],
+    "favorites": ["electronics", "shiny stuff", "glass stuff", "cute stuff", "pretty flowers", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "114",
+    "pokemon": "Azurill",
+    "habitat": "Humid",
+    "skills": ["Water", "Hype"],
+    "favorites": ["lots of water", "cute stuff", "cleanliness", "healing", "rides", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "115",
+    "pokemon": "Marill",
+    "habitat": "Humid",
+    "skills": ["Water", "Hype"],
+    "favorites": ["lots of water", "cute stuff", "cleanliness", "round stuff", "symbols", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "116",
+    "pokemon": "Azumarill",
+    "habitat": "Humid",
+    "skills": ["Water", "Build"],
+    "favorites": ["lots of water", "cute stuff", "construction", "wobbly stuff", "symbols", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "117",
+    "pokemon": "Paldean Wooper",
+    "habitat": "Humid",
+    "skills": ["Litter"],
+    "litter_drop": "Squishy Clay",
+    "favorites": ["garbage", "lots of dirt", "stone stuff", "cleanliness", "group activities", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "118",
+    "pokemon": "Clodsire",
+    "habitat": "Humid",
+    "skills": ["Litter", "Bulldoze"],
+    "litter_drop": "Squishy Clay",
+    "favorites": ["garbage", "lots of dirt", "lots of water", "cleanliness", "round stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "119",
+    "pokemon": "Smeargle",
+    "habitat": "Bright",
+    "skills": ["Paint"],
+    "favorites": ["soft stuff", "fabric", "strange stuff", "colorful stuff", "shiny stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "120",
+    "pokemon": "Torchic",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "stone stuff", "cute stuff", "containers", "pretty flowers", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "121",
+    "pokemon": "Combusken",
+    "habitat": "Warm",
+    "skills": ["Burn", "Build"],
+    "favorites": ["lots of fire", "stone stuff", "exercise", "containers", "construction", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "122",
+    "pokemon": "Blaziken",
+    "habitat": "Warm",
+    "skills": ["Burn", "Build"],
+    "favorites": ["lots of fire", "luxury", "exercise", "containers", "construction", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "123",
+    "pokemon": "Wingull",
+    "habitat": "Humid",
+    "skills": ["Water", "Fly"],
+    "favorites": ["lots of water", "nice breezes", "cleanliness", "ocean vibes", "watching stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "124",
+    "pokemon": "Pelipper",
+    "habitat": "Humid",
+    "skills": ["Water", "Fly"],
+    "favorites": ["lots of water", "nice breezes", "cleanliness", "ocean vibes", "watching stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "125",
+    "pokemon": "Makuhita",
+    "habitat": "Bright",
+    "skills": ["Build", "Bulldoze"],
+    "favorites": ["exercise", "construction", "fabric", "round stuff", "wooden stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "126",
+    "pokemon": "Hariyama",
+    "habitat": "Bright",
+    "skills": ["Build", "Bulldoze"],
+    "favorites": ["exercise", "construction", "fabric", "round stuff", "rides", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "127",
+    "pokemon": "Absol",
+    "habitat": "Dark",
+    "skills": ["Chop"],
+    "favorites": ["soft stuff", "nice breezes", "letters and words", "complicated stuff", "exercise", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "128",
+    "pokemon": "Piplup",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "ocean vibes", "nice breezes", "cleanliness", "containers", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "129",
+    "pokemon": "Prinplup",
+    "habitat": "Humid",
+    "skills": ["Water", "Trade"],
+    "favorites": ["lots of water", "ocean vibes", "nice breezes", "cleanliness", "containers", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "130",
+    "pokemon": "Empoleon",
+    "habitat": "Humid",
+    "skills": ["Water", "Trade"],
+    "favorites": ["lots of water", "ocean vibes", "metal stuff", "cleanliness", "letters and words", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "131",
+    "pokemon": "Audino",
+    "habitat": "Bright",
+    "skills": ["Trade"],
+    "favorites": ["soft stuff", "fabric", "healing", "cute stuff", "round stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "132",
+    "pokemon": "Trubbish",
+    "habitat": "Humid",
+    "skills": ["Recycle"],
+    "favorites": ["garbage", "containers", "complicated stuff", "shiny stuff", "gatherings", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "133",
+    "pokemon": "Garbodor",
+    "habitat": "Humid",
+    "skills": ["Recycle", "Litter"],
+    "litter_drop": "Nonburnable Garbage",
+    "favorites": ["garbage", "containers", "complicated stuff", "shiny stuff", "gatherings", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "134",
+    "pokemon": "Zorua",
+    "habitat": "Dark",
+    "skills": ["Trade"],
+    "favorites": ["shiny stuff", "luxury", "glass stuff", "cute stuff", "group activities", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "135",
+    "pokemon": "Zoroark",
+    "habitat": "Dark",
+    "skills": ["Trade", "Chop"],
+    "favorites": ["shiny stuff", "luxury", "glass stuff", "strange stuff", "group activities", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "136",
+    "pokemon": "Minccino",
+    "habitat": "Bright",
+    "skills": ["Gather"],
+    "favorites": ["soft stuff", "fabric", "rides", "cute stuff", "cleanliness", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "137",
+    "pokemon": "Cinccino",
+    "habitat": "Bright",
+    "skills": ["Gather", "Recycle"],
+    "favorites": ["soft stuff", "fabric", "rides", "cute stuff", "cleanliness", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "138",
+    "pokemon": "Grubbin",
+    "habitat": "Bright",
+    "skills": ["Chop"],
+    "favorites": ["lots of nature", "electronics", "watching stuff", "lots of dirt", "containers", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "139",
+    "pokemon": "Charjabug",
+    "habitat": "Bright",
+    "skills": ["Generate", "Chop"],
+    "favorites": ["lots of nature", "electronics", "watching stuff", "glass stuff", "blocky stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "140",
+    "pokemon": "Vikavolt",
+    "habitat": "Bright",
+    "skills": ["Generate", "Chop"],
+    "favorites": ["lots of nature", "electronics", "exercise", "glass stuff", "nice breezes", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "141",
+    "pokemon": "Mimikyu",
+    "habitat": "Dark",
+    "skills": ["Trade"],
+    "favorites": ["spooky stuff", "strange stuff", "shiny stuff", "colorful stuff", "watching stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "142",
+    "pokemon": "Pawmi",
+    "habitat": "Bright",
+    "skills": ["Generate"],
+    "favorites": ["electronics", "shiny stuff", "cute stuff", "glass stuff", "group activities", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "143",
+    "pokemon": "Pawmo",
+    "habitat": "Bright",
+    "skills": ["Generate", "Crush"],
+    "favorites": ["electronics", "shiny stuff", "exercise", "glass stuff", "group activities", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "144",
+    "pokemon": "Pawmot",
+    "habitat": "Bright",
+    "skills": ["Generate", "Crush"],
+    "favorites": ["electronics", "shiny stuff", "exercise", "healing", "group activities", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "145",
+    "pokemon": "Tatsugiri Curly Form",
+    "habitat": "Humid",
+    "skills": ["Trade"],
+    "favorites": ["lots of water", "ocean vibes", "group activities", "slender objects", "gatherings", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "145",
+    "pokemon": "Tatsugiri Droopy Form",
+    "habitat": "Humid",
+    "skills": ["Trade"],
+    "favorites": ["lots of dirt", "ocean vibes", "group activities", "spinning stuff", "blocky stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "145",
+    "pokemon": "Tatsugiri Stretchy Form",
+    "habitat": "Humid",
+    "skills": ["Trade"],
+    "favorites": ["lots of water", "ocean vibes", "group activities", "letters and words", "containers", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "146",
+    "pokemon": "Ekans",
+    "habitat": "Dark",
+    "skills": ["Search"],
+    "favorites": ["garbage", "watching stuff", "lots of nature", "slender objects", "spinning stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "147",
+    "pokemon": "Arbok",
+    "habitat": "Dark",
+    "skills": ["Search"],
+    "favorites": ["garbage", "watching stuff", "lots of nature", "slender objects", "spinning stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "148",
+    "pokemon": "Cleffa",
+    "habitat": "Dark",
+    "skills": ["Hype"],
+    "favorites": ["cute stuff", "round stuff", "colorful stuff", "healing", "rides", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "149",
+    "pokemon": "Clefairy",
+    "habitat": "Dark",
+    "skills": ["Hype"],
+    "favorites": ["cute stuff", "play spaces", "pretty flowers", "healing", "group activities", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "150",
+    "pokemon": "Clefable",
+    "habitat": "Dark",
+    "skills": ["Hype", "Trade"],
+    "favorites": ["cute stuff", "play spaces", "pretty flowers", "healing", "group activities", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "151",
+    "pokemon": "Igglybuff",
+    "habitat": "Warm",
+    "skills": ["Hype"],
+    "favorites": ["soft stuff", "cute stuff", "play spaces", "healing", "noisy stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "152",
+    "pokemon": "Jigglypuff",
+    "habitat": "Bright",
+    "skills": ["Hype"],
+    "favorites": ["soft stuff", "cute stuff", "play spaces", "healing", "wobbly stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "153",
+    "pokemon": "Wigglytuff",
+    "habitat": "Bright",
+    "skills": ["Hype", "Trade"],
+    "favorites": ["soft stuff", "cute stuff", "play spaces", "healing", "group activities", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "154",
+    "pokemon": "Diglett",
+    "habitat": "Dark",
+    "skills": ["Hype"],
+    "favorites": ["lots of dirt", "play spaces", "cute stuff", "group activities", "slender objects", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "155",
+    "pokemon": "Dugtrio",
+    "habitat": "Dark",
+    "skills": ["Hype", "Crush"],
+    "favorites": ["lots of dirt", "play spaces", "gatherings", "group activities", "slender objects", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "156",
+    "pokemon": "Machop",
+    "habitat": "Bright",
+    "skills": ["Build", "Gather"],
+    "favorites": ["exercise", "construction", "stone stuff", "hard stuff", "group activities", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "157",
+    "pokemon": "Machoke",
+    "habitat": "Bright",
+    "skills": ["Build", "Gather"],
+    "favorites": ["exercise", "construction", "stone stuff", "hard stuff", "group activities", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "158",
+    "pokemon": "Machamp",
+    "habitat": "Bright",
+    "skills": ["Build", "Gather"],
+    "favorites": ["exercise", "construction", "stone stuff", "hard stuff", "group activities", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "159",
+    "pokemon": "Geodude",
+    "habitat": "Dark",
+    "skills": ["Crush"],
+    "favorites": ["stone stuff", "hard stuff", "spinning stuff", "round stuff", "exercise", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "160",
+    "pokemon": "Graveler",
+    "habitat": "Dark",
+    "skills": ["Crush"],
+    "favorites": ["stone stuff", "hard stuff", "spinning stuff", "round stuff", "exercise", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "161",
+    "pokemon": "Golem",
+    "habitat": "Dark",
+    "skills": ["Crush", "Trade"],
+    "favorites": ["stone stuff", "hard stuff", "spinning stuff", "round stuff", "exercise", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "162",
+    "pokemon": "Magby",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "stone stuff", "watching stuff", "cute stuff", "wobbly stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "163",
+    "pokemon": "Magmar",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "stone stuff", "electronics", "hard stuff", "exercise", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "164",
+    "pokemon": "Magmortar",
+    "habitat": "Warm",
+    "skills": ["Burn", "Crush"],
+    "favorites": ["lots of fire", "stone stuff", "electronics", "hard stuff", "exercise", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "165",
+    "pokemon": "Bonsly",
+    "habitat": "Dry",
+    "skills": ["Bulldoze"],
+    "favorites": ["stone stuff", "hard stuff", "lots of nature", "wooden stuff", "round stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "166",
+    "pokemon": "Sudowoodo",
+    "habitat": "Dry",
+    "skills": ["Trade", "Bulldoze"],
+    "favorites": ["stone stuff", "hard stuff", "lots of nature", "wooden stuff", "watching stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "167",
+    "pokemon": "Murkrow",
+    "habitat": "Dark",
+    "skills": ["Trade", "Fly"],
+    "favorites": ["shiny stuff", "nice breezes", "group activities", "luxury", "fabric", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "168",
+    "pokemon": "Honchkrow",
+    "habitat": "Dark",
+    "skills": ["Trade", "Fly"],
+    "favorites": ["shiny stuff", "nice breezes", "spooky stuff", "letters and words", "glass stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "169",
+    "pokemon": "Larvitar",
+    "habitat": "Dark",
+    "skills": ["Crush", "Bulldoze"],
+    "favorites": ["stone stuff", "lots of dirt", "luxury", "shiny stuff", "looks like food", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "170",
+    "pokemon": "Pupitar",
+    "habitat": "Dark",
+    "skills": ["Crush", "Bulldoze"],
+    "favorites": ["stone stuff", "hard stuff", "luxury", "shiny stuff", "watching stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "171",
+    "pokemon": "Tyranitar",
+    "habitat": "Dark",
+    "skills": ["Crush", "Bulldoze"],
+    "favorites": ["stone stuff", "hard stuff", "luxury", "shiny stuff", "exercise", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "172",
+    "pokemon": "Lotad",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "lots of nature", "cleanliness", "containers", "noisy stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "173",
+    "pokemon": "Lombre",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "lots of nature", "cleanliness", "containers", "noisy stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "174",
+    "pokemon": "Ludicolo",
+    "habitat": "Humid",
+    "skills": ["Water", "Hype"],
+    "favorites": ["lots of water", "lots of nature", "play spaces", "containers", "noisy stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "175",
+    "pokemon": "Mawile",
+    "habitat": "Bright",
+    "skills": ["Trade", "Build"],
+    "favorites": ["metal stuff", "cute stuff", "colorful stuff", "looks like food", "group activities", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "176",
+    "pokemon": "Torkoal",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "stone stuff", "metal stuff", "hard stuff", "watching stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "177",
+    "pokemon": "Kricketot",
+    "habitat": "Dark",
+    "skills": ["Hype"],
+    "favorites": ["lots of nature", "wooden stuff", "noisy stuff", "colorful stuff", "watching stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "178",
+    "pokemon": "Kricketune",
+    "habitat": "Dark",
+    "skills": ["Hype"],
+    "favorites": ["lots of nature", "wooden stuff", "noisy stuff", "colorful stuff", "watching stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "179",
+    "pokemon": "Chatot",
+    "habitat": "Warm",
+    "skills": ["Hype", "Fly"],
+    "favorites": ["nice breezes", "fabric", "slender objects", "play spaces", "noisy stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "180",
+    "pokemon": "Riolu",
+    "habitat": "Dark",
+    "skills": ["Build"],
+    "favorites": ["exercise", "fabric", "construction", "gatherings", "watching stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "181",
+    "pokemon": "Lucario",
+    "habitat": "Dark",
+    "skills": ["Build"],
+    "favorites": ["exercise", "metal stuff", "construction", "complicated stuff", "healing", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "182",
+    "pokemon": "Stereo Rotom",
+    "habitat": "Bright",
+    "skills": ["DJ"],
+    "favorites": ["shiny stuff", "glass stuff", "noisy stuff", "group activities", "blocky stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "183",
+    "pokemon": "Larvesta",
+    "habitat": "Dry",
+    "skills": ["Burn", "Litter"],
+    "litter_drop": "Twine",
+    "favorites": ["lots of nature", "lots of fire", "sharp stuff", "wooden stuff", "symbols", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "184",
+    "pokemon": "Volcarona",
+    "habitat": "Dry",
+    "skills": ["Burn", "Litter"],
+    "litter_drop": "Twine",
+    "favorites": ["lots of nature", "lots of fire", "letters and words", "wooden stuff", "symbols", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "185",
+    "pokemon": "Rowlet",
+    "habitat": "Dark",
+    "skills": ["Grow"],
+    "favorites": ["lots of nature", "wooden stuff", "nice breezes", "containers", "spinning stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "186",
+    "pokemon": "Dartrix",
+    "habitat": "Dark",
+    "skills": ["Grow", "Chop"],
+    "favorites": ["lots of nature", "wooden stuff", "nice breezes", "slender objects", "cleanliness", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "187",
+    "pokemon": "Decidueye",
+    "habitat": "Dark",
+    "skills": ["Grow", "Chop"],
+    "favorites": ["lots of nature", "spooky stuff", "wooden stuff", "nice breezes", "letters and words", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "188",
+    "pokemon": "Scorbunny",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "stone stuff", "soft stuff", "group activities", "sharp stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "189",
+    "pokemon": "Raboot",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "stone stuff", "play spaces", "group activities", "construction", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "190",
+    "pokemon": "Cinderace",
+    "habitat": "Warm",
+    "skills": ["Burn", "Hype"],
+    "favorites": ["lots of fire", "stone stuff", "play spaces", "group activities", "round stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "191",
+    "pokemon": "Skwovet",
+    "habitat": "Warm",
+    "skills": ["Search", "Hype"],
+    "favorites": ["soft stuff", "wooden stuff", "watching stuff", "looks like food", "round stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "192",
+    "pokemon": "Greedent",
+    "habitat": "Warm",
+    "skills": ["Party"],
+    "favorites": ["soft stuff", "metal stuff", "group activities", "looks like food", "luxury", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "193",
+    "pokemon": "Rolycoly",
+    "habitat": "Warm",
+    "skills": ["Burn", "Gather"],
+    "favorites": ["stone stuff", "lots of fire", "hard stuff", "metal stuff", "rides", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "194",
+    "pokemon": "Carkol",
+    "habitat": "Warm",
+    "skills": ["Burn", "Gather"],
+    "favorites": ["stone stuff", "lots of fire", "hard stuff", "metal stuff", "rides", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "195",
+    "pokemon": "Coalossal",
+    "habitat": "Warm",
+    "skills": ["Burn", "Gather"],
+    "favorites": ["stone stuff", "lots of fire", "hard stuff", "metal stuff", "rides", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "196",
+    "pokemon": "Toxel",
+    "habitat": "Humid",
+    "skills": ["Generate"],
+    "favorites": ["electronics", "shiny stuff", "noisy stuff", "glass stuff", "garbage", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "197",
+    "pokemon": "Toxtricity Amped Form",
+    "habitat": "Humid",
+    "skills": ["Generate", "Hype"],
+    "favorites": ["electronics", "play spaces", "noisy stuff", "slender objects", "sharp stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "00",
+    "pokemon": "Toxtricity Low Key Form",
+    "habitat": "Humid",
+    "skills": ["Generate", "Hype"],
+    "favorites": ["electronics", "play spaces", "noisy stuff", "slender objects", "sharp stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "198",
+    "pokemon": "Fidough",
+    "habitat": "Warm",
+    "skills": ["Search"],
+    "favorites": ["cute stuff", "watching stuff", "soft stuff", "lots of fire", "letters and words", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "199",
+    "pokemon": "Dachsbun",
+    "habitat": "Warm",
+    "skills": ["Search", "Trade"],
+    "favorites": ["cute stuff", "watching stuff", "group activities", "lots of fire", "looks like food", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "200",
+    "pokemon": "Charcadet",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "stone stuff", "strange stuff", "exercise", "luxury", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "201",
+    "pokemon": "Armarouge",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "stone stuff", "strange stuff", "exercise", "luxury", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "202",
+    "pokemon": "Ceruledge",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "stone stuff", "spooky stuff", "strange stuff", "luxury", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "203",
+    "pokemon": "Glimmet",
+    "habitat": "Dark",
+    "skills": ["Litter"],
+    "litter_drop": "Iron Ore",
+    "favorites": ["stone stuff", "hard stuff", "garbage", "shiny stuff", "complicated stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "204",
+    "pokemon": "Glimmora",
+    "habitat": "Dark",
+    "skills": ["Litter"],
+    "litter_drop": "Iron Ore",
+    "favorites": ["stone stuff", "hard stuff", "garbage", "shiny stuff", "complicated stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "205",
+    "pokemon": "Gimmighoul",
+    "habitat": "Dark",
+    "skills": ["Collect"],
+    "favorites": ["spooky stuff", "metal stuff", "strange stuff", "shiny stuff", "complicated stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "206",
+    "pokemon": "Gholdengo",
+    "habitat": "Bright",
+    "skills": ["Collect"],
+    "favorites": ["spooky stuff", "metal stuff", "strange stuff", "shiny stuff", "complicated stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "207",
+    "pokemon": "Vulpix",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "soft stuff", "cute stuff", "round stuff", "pretty flowers", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "208",
+    "pokemon": "Ninetales",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "soft stuff", "watching stuff", "luxury", "pretty flowers", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "209",
+    "pokemon": "Poliwag",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "cleanliness", "round stuff", "rides", "spinning stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "210",
+    "pokemon": "Poliwhirl",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "cleanliness", "lots of nature", "exercise", "spinning stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "211",
+    "pokemon": "Poliwrath",
+    "habitat": "Humid",
+    "skills": ["Water", "Build"],
+    "favorites": ["lots of water", "cleanliness", "construction", "exercise", "group activities", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "212",
+    "pokemon": "Politoed",
+    "habitat": "Humid",
+    "skills": ["Water", "Hype"],
+    "favorites": ["lots of water", "play spaces", "noisy stuff", "gatherings", "group activities", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "213",
+    "pokemon": "Abra",
+    "habitat": "Dark",
+    "skills": ["Teleport"],
+    "favorites": ["strange stuff", "wobbly stuff", "metal stuff", "soft stuff", "watching stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "214",
+    "pokemon": "Kadabra",
+    "habitat": "Dark",
+    "skills": ["Teleport"],
+    "favorites": ["strange stuff", "wobbly stuff", "metal stuff", "containers", "watching stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "215",
+    "pokemon": "Alakazam",
+    "habitat": "Dark",
+    "skills": ["Teleport", "Trade"],
+    "favorites": ["strange stuff", "wobbly stuff", "metal stuff", "letters and words", "watching stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "216",
+    "pokemon": "Mime Jr.",
+    "habitat": "Bright",
+    "skills": ["Gather"],
+    "favorites": ["strange stuff", "cute stuff", "rides", "play spaces", "colorful stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "217",
+    "pokemon": "Mr. Mime",
+    "habitat": "Bright",
+    "skills": ["Gather", "Build"],
+    "favorites": ["strange stuff", "cute stuff", "rides", "wobbly stuff", "lots of water", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "218",
+    "pokemon": "Porygon",
+    "habitat": "Bright",
+    "skills": ["Recycle"],
+    "favorites": ["soft stuff", "strange stuff", "blocky stuff", "construction", "colorful stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "219",
+    "pokemon": "Porygon2",
+    "habitat": "Bright",
+    "skills": ["Recycle"],
+    "favorites": ["soft stuff", "strange stuff", "round stuff", "construction", "colorful stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "220",
+    "pokemon": "Porygon-Z",
+    "habitat": "Bright",
+    "skills": ["Rarify"],
+    "favorites": ["soft stuff", "strange stuff", "fabric", "watching stuff", "colorful stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "221",
+    "pokemon": "Dratini",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "lots of fire", "cleanliness", "cute stuff", "slender objects", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "222",
+    "pokemon": "Dragonair",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "lots of fire", "cleanliness", "glass stuff", "slender objects", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "223",
+    "pokemon": "Dragonite",
+    "habitat": "Humid",
+    "skills": ["Water", "Fly"],
+    "favorites": ["lots of fire", "nice breezes", "cleanliness", "symbols", "pretty flowers", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "224",
+    "pokemon": "Cyndaquil",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "fabric", "slender objects", "metal stuff", "rides", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "225",
+    "pokemon": "Quilava",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "fabric", "slender objects", "metal stuff", "rides", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "226",
+    "pokemon": "Typhlosion",
+    "habitat": "Warm",
+    "skills": ["Burn", "Trade"],
+    "favorites": ["lots of fire", "fabric", "slender objects", "metal stuff", "rides", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "227",
+    "pokemon": "Misdreavus",
+    "habitat": "Dark",
+    "skills": ["Trade"],
+    "favorites": ["spooky stuff", "strange stuff", "shiny stuff", "colorful stuff", "watching stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "228",
+    "pokemon": "Mismagius",
+    "habitat": "Dark",
+    "skills": ["Gather", "Trade"],
+    "favorites": ["spooky stuff", "strange stuff", "noisy stuff", "wobbly stuff", "group activities", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "229",
+    "pokemon": "Girafarig",
+    "habitat": "Warm",
+    "skills": ["Gather"],
+    "favorites": ["soft stuff", "strange stuff", "rides", "watching stuff", "slender objects", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "230",
+    "pokemon": "Farigiraf",
+    "habitat": "Warm",
+    "skills": ["Gather", "Search"],
+    "favorites": ["soft stuff", "strange stuff", "rides", "watching stuff", "slender objects", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "231",
+    "pokemon": "Ralts",
+    "habitat": "Bright",
+    "skills": ["Teleport"],
+    "favorites": ["strange stuff", "cute stuff", "healing", "watching stuff", "symbols", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "232",
+    "pokemon": "Kirlia",
+    "habitat": "Bright",
+    "skills": ["Teleport"],
+    "favorites": ["strange stuff", "cute stuff", "healing", "watching stuff", "symbols", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "233",
+    "pokemon": "Gardevoir",
+    "habitat": "Bright",
+    "skills": ["Teleport", "Trade"],
+    "favorites": ["strange stuff", "luxury", "healing", "watching stuff", "symbols", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "234",
+    "pokemon": "Gallade",
+    "habitat": "Bright",
+    "skills": ["Teleport", "Build"],
+    "favorites": ["strange stuff", "exercise", "healing", "construction", "fabric", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "235",
+    "pokemon": "Plusle",
+    "habitat": "Bright",
+    "skills": ["Generate"],
+    "favorites": ["electronics", "glass stuff", "soft stuff", "cute stuff", "group activities", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "236",
+    "pokemon": "Minun",
+    "habitat": "Bright",
+    "skills": ["Generate"],
+    "favorites": ["electronics", "glass stuff", "soft stuff", "cute stuff", "group activities", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "237",
+    "pokemon": "Trapinch",
+    "habitat": "Dry",
+    "skills": ["Bulldoze", "Litter"],
+    "litter_drop": "Squishy Clay",
+    "favorites": ["lots of dirt", "hard stuff", "strange stuff", "watching stuff", "exercise", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "238",
+    "pokemon": "Vibrava",
+    "habitat": "Dry",
+    "skills": ["Bulldoze", "Fly"],
+    "favorites": ["lots of dirt", "lots of fire", "lots of nature", "luxury", "noisy stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "239",
+    "pokemon": "Flygon",
+    "habitat": "Dry",
+    "skills": ["Bulldoze", "Fly"],
+    "favorites": ["lots of dirt", "lots of fire", "lots of nature", "stone stuff", "wooden stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "240",
+    "pokemon": "Swablu",
+    "habitat": "Bright",
+    "skills": ["Litter"],
+    "litter_drop": "Fluff",
+    "favorites": ["soft stuff", "nice breezes", "cute stuff", "watching stuff", "cleanliness", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "241",
+    "pokemon": "Altaria",
+    "habitat": "Bright",
+    "skills": ["Litter", "Fly"],
+    "litter_drop": "Fluff",
+    "favorites": ["soft stuff", "nice breezes", "cute stuff", "watching stuff", "noisy stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "242",
+    "pokemon": "Duskull",
+    "habitat": "Dark",
+    "skills": ["Gather"],
+    "favorites": ["spooky stuff", "strange stuff", "rides", "glass stuff", "fabric", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "243",
+    "pokemon": "Dusclops",
+    "habitat": "Dark",
+    "skills": ["Gather"],
+    "favorites": ["spooky stuff", "strange stuff", "rides", "soft stuff", "containers", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "244",
+    "pokemon": "Dusknoir",
+    "habitat": "Dark",
+    "skills": ["Gather", "Trade"],
+    "favorites": ["spooky stuff", "strange stuff", "rides", "group activities", "containers", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "245",
+    "pokemon": "Beldum",
+    "habitat": "Cool",
+    "skills": ["Recycle"],
+    "favorites": ["metal stuff", "strange stuff", "hard stuff", "complicated stuff", "stone stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "246",
+    "pokemon": "Metang",
+    "habitat": "Cool",
+    "skills": ["Recycle"],
+    "favorites": ["metal stuff", "strange stuff", "hard stuff", "complicated stuff", "stone stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "247",
+    "pokemon": "Metagross",
+    "habitat": "Cool",
+    "skills": ["Recycle", "Crush"],
+    "favorites": ["metal stuff", "strange stuff", "hard stuff", "exercise", "luxury", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "248",
+    "pokemon": "Snivy",
+    "habitat": "Humid",
+    "skills": ["Grow", "Litter"],
+    "litter_drop": "Vine Rope",
+    "favorites": ["lots of nature", "wooden stuff", "lots of water", "wobbly stuff", "shiny stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "249",
+    "pokemon": "Servine",
+    "habitat": "Humid",
+    "skills": ["Grow", "Litter"],
+    "litter_drop": "Vine Rope",
+    "favorites": ["lots of nature", "wooden stuff", "lots of water", "cleanliness", "shiny stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "250",
+    "pokemon": "Serperior",
+    "habitat": "Humid",
+    "skills": ["Grow", "Litter"],
+    "litter_drop": "Vine Rope",
+    "favorites": ["lots of nature", "wooden stuff", "lots of water", "containers", "slender objects", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "251",
+    "pokemon": "Froakie",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "ocean vibes", "cleanliness", "watching stuff", "containers", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "252",
+    "pokemon": "Frogadier",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "ocean vibes", "cleanliness", "watching stuff", "exercise", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "253",
+    "pokemon": "Greninja",
+    "habitat": "Humid",
+    "skills": ["Water", "Chop"],
+    "favorites": ["lots of water", "ocean vibes", "cleanliness", "shiny stuff", "exercise", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "254",
+    "pokemon": "Dedenne",
+    "habitat": "Bright",
+    "skills": ["Search"],
+    "favorites": ["electronics", "cute stuff", "watching stuff", "group activities", "looks like food", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "255",
+    "pokemon": "Noibat",
+    "habitat": "Dark",
+    "skills": ["Search"],
+    "favorites": ["nice breezes", "lots of fire", "watching stuff", "luxury", "looks like food", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "256",
+    "pokemon": "Noivern",
+    "habitat": "Dark",
+    "skills": ["Search", "Fly"],
+    "favorites": ["nice breezes", "lots of fire", "lots of water", "play spaces", "looks like food", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "257",
+    "pokemon": "Rookidee",
+    "habitat": "Bright",
+    "skills": ["Chop"],
+    "favorites": ["nice breezes", "shiny stuff", "containers", "slender objects", "wooden stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "258",
+    "pokemon": "Corvisquire",
+    "habitat": "Bright",
+    "skills": ["Chop"],
+    "favorites": ["nice breezes", "shiny stuff", "containers", "slender objects", "wooden stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "259",
+    "pokemon": "Corviknight",
+    "habitat": "Bright",
+    "skills": ["Chop", "Fly"],
+    "favorites": ["nice breezes", "metal stuff", "shiny stuff", "containers", "wooden stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "260",
+    "pokemon": "Dreepy",
+    "habitat": "Humid",
+    "skills": ["Gather", "Search"],
+    "favorites": ["lots of fire", "spooky stuff", "rides", "strange stuff", "group activities", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "261",
+    "pokemon": "Drakloak",
+    "habitat": "Humid",
+    "skills": ["Gather", "Search"],
+    "favorites": ["lots of fire", "spooky stuff", "rides", "strange stuff", "group activities", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "262",
+    "pokemon": "Dragapult",
+    "habitat": "Humid",
+    "skills": ["Gather", "Trade"],
+    "favorites": ["lots of fire", "spooky stuff", "rides", "strange stuff", "group activities", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "263",
+    "pokemon": "Sprigatito",
+    "habitat": "Bright",
+    "skills": ["Grow"],
+    "favorites": ["lots of nature", "pretty flowers", "containers", "colorful stuff", "cute stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "264",
+    "pokemon": "Floragato",
+    "habitat": "Bright",
+    "skills": ["Grow"],
+    "favorites": ["lots of nature", "pretty flowers", "sharp stuff", "colorful stuff", "cute stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "265",
+    "pokemon": "Meowscarada",
+    "habitat": "Bright",
+    "skills": ["Grow", "Hype"],
+    "favorites": ["lots of nature", "pretty flowers", "shiny stuff", "luxury", "cute stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "266",
+    "pokemon": "Wattrel",
+    "habitat": "Bright",
+    "skills": ["Generate"],
+    "favorites": ["electronics", "nice breezes", "ocean vibes", "gatherings", "complicated stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "267",
+    "pokemon": "Kilowattrel",
+    "habitat": "Bright",
+    "skills": ["Generate", "Fly"],
+    "favorites": ["electronics", "nice breezes", "ocean vibes", "gatherings", "slender objects", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "268",
+    "pokemon": "Tinkatink",
+    "habitat": "Bright",
+    "skills": ["Build"],
+    "favorites": ["cute stuff", "metal stuff", "construction", "looks like food", "exercise", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "269",
+    "pokemon": "Tinkatuff",
+    "habitat": "Bright",
+    "skills": ["Build"],
+    "favorites": ["cute stuff", "metal stuff", "construction", "group activities", "exercise", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "270",
+    "pokemon": "Tinkaton",
+    "habitat": "Bright",
+    "skills": ["Engineer"],
+    "favorites": ["cute stuff", "metal stuff", "construction", "blocky stuff", "exercise", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "271",
+    "pokemon": "Aerodactyl",
+    "habitat": "Dry",
+    "skills": ["Fly"],
+    "favorites": ["stone stuff", "nice breezes", "hard stuff", "shiny stuff", "spinning stuff", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "272",
+    "pokemon": "Cranidos",
+    "habitat": "Dry",
+    "skills": ["Crush"],
+    "favorites": ["stone stuff", "hard stuff", "wobbly stuff", "group activities", "exercise", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "273",
+    "pokemon": "Rampardos",
+    "habitat": "Dry",
+    "skills": ["Crush", "Litter"],
+    "litter_drop": "Stone",
+    "favorites": ["stone stuff", "hard stuff", "metal stuff", "luxury", "exercise", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "274",
+    "pokemon": "Shieldon",
+    "habitat": "Dry",
+    "skills": ["Crush"],
+    "favorites": ["stone stuff", "hard stuff", "metal stuff", "luxury", "round stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "275",
+    "pokemon": "Bastiodon",
+    "habitat": "Dark",
+    "skills": ["Crush", "Litter"],
+    "litter_drop": "Stone",
+    "favorites": ["stone stuff", "hard stuff", "metal stuff", "luxury", "exercise", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "276",
+    "pokemon": "Tyrunt",
+    "habitat": "Dry",
+    "skills": ["Crush"],
+    "favorites": ["stone stuff", "hard stuff", "lots of fire", "luxury", "exercise", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "277",
+    "pokemon": "Tyrantrum",
+    "habitat": "Dry",
+    "skills": ["Crush", "Litter"],
+    "litter_drop": "Stone",
+    "favorites": ["stone stuff", "hard stuff", "lots of fire", "luxury", "exercise", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "278",
+    "pokemon": "Amaura",
+    "habitat": "Cool",
+    "skills": ["Crush"],
+    "favorites": ["stone stuff", "hard stuff", "shiny stuff", "group activities", "containers", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "279",
+    "pokemon": "Aurorus",
+    "habitat": "Cool",
+    "skills": ["Crush", "Litter"],
+    "litter_drop": "Stone",
+    "favorites": ["stone stuff", "hard stuff", "shiny stuff", "noisy stuff", "symbols", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "280",
+    "pokemon": "Eevee",
+    "habitat": "Warm",
+    "skills": ["Trade"],
+    "favorites": ["soft stuff", "stone stuff", "cute stuff", "letters and words", "group activities", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "281",
+    "pokemon": "Vaporeon",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "cleanliness", "cute stuff", "pretty flowers", "watching stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "282",
+    "pokemon": "Jolteon",
+    "habitat": "Bright",
+    "skills": ["Generate"],
+    "favorites": ["electronics", "shiny stuff", "cute stuff", "glass stuff", "sharp stuff", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "283",
+    "pokemon": "Flareon",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "wooden stuff", "cute stuff", "metal stuff", "rides", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "284",
+    "pokemon": "Espeon",
+    "habitat": "Bright",
+    "skills": ["Gather"],
+    "favorites": ["strange stuff", "nice breezes", "cute stuff", "complicated stuff", "watching stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "285",
+    "pokemon": "Umbreon",
+    "habitat": "Dark",
+    "skills": ["Search"],
+    "favorites": ["shiny stuff", "luxury", "cute stuff", "letters and words", "watching stuff", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "286",
+    "pokemon": "Leafeon",
+    "habitat": "Bright",
+    "skills": ["Grow"],
+    "favorites": ["lots of nature", "pretty flowers", "cute stuff", "fabric", "healing", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "287",
+    "pokemon": "Glaceon",
+    "habitat": "Cool",
+    "skills": ["Trade"],
+    "favorites": ["lots of water", "shiny stuff", "cute stuff", "glass stuff", "group activities", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "288",
+    "pokemon": "Sylveon",
+    "habitat": "Warm",
+    "skills": ["Hype"],
+    "favorites": ["cute stuff", "lots of nature", "fabric", "noisy stuff", "round stuff", "sweet flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "289",
+    "pokemon": "Kyogre",
+    "habitat": "Humid",
+    "skills": ["???"],
+    "favorites": ["lots of water", "ocean vibes", "luxury", "shiny stuff", "glass stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "290",
+    "pokemon": "Raikou",
+    "habitat": "Bright",
+    "skills": ["Generate"],
+    "favorites": ["electronics", "nice breezes", "shiny stuff", "glass stuff", "luxury", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "291",
+    "pokemon": "Entei",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "stone stuff", "symbols", "exercise", "luxury", "bitter flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "292",
+    "pokemon": "Suicune",
+    "habitat": "Humid",
+    "skills": ["Water"],
+    "favorites": ["lots of water", "ocean vibes", "cleanliness", "watching stuff", "healing", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "293",
+    "pokemon": "Volcanion",
+    "habitat": "Warm",
+    "skills": ["Burn"],
+    "favorites": ["lots of fire", "lots of water", "stone stuff", "containers", "symbols", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "294",
+    "pokemon": "Articuno",
+    "habitat": "Cool",
+    "skills": ["Fly"],
+    "favorites": ["lots of water", "nice breezes", "shiny stuff", "symbols", "luxury", "sour flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "295",
+    "pokemon": "Zapdos",
+    "habitat": "Bright",
+    "skills": ["Fly"],
+    "favorites": ["electronics", "nice breezes", "glass stuff", "symbols", "luxury", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "296",
+    "pokemon": "Moltres",
+    "habitat": "Warm",
+    "skills": ["Fly"],
+    "favorites": ["lots of fire", "nice breezes", "stone stuff", "symbols", "luxury", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "297",
+    "pokemon": "Lugia",
+    "habitat": "Humid",
+    "skills": ["???"],
+    "favorites": ["strange stuff", "nice breezes", "lots of water", "ocean vibes", "symbols", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "298",
+    "pokemon": "Ho-Oh",
+    "habitat": "Warm",
+    "skills": ["???"],
+    "favorites": ["lots of fire", "wooden stuff", "nice breezes", "lots of nature", "symbols", "spicy flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "299",
+    "pokemon": "Mewtwo",
+    "habitat": "Dark",
+    "skills": ["Teleport"],
+    "favorites": ["strange stuff", "watching stuff", "letters and words", "complicated stuff", "stone stuff", "dry flavors"]
+  },
+  {
+    "dex": "main",
+    "number": "300",
+    "pokemon": "Mew",
+    "habitat": "Warm",
+    "skills": ["Teleport"],
+    "favorites": ["strange stuff", "watching stuff", "luxury", "complicated stuff", "play spaces", "sweet flavors"]
+  },
+  {
+    "dex": "event",
+    "number": "001",
+    "pokemon": "Hoppip",
+    "habitat": "Bright",
+    "skills": ["Grow"],
+    "favorites": ["lots of nature", "pretty flowers", "soft stuff", "nice breezes", "wobbly stuff", "sweet flavors"]
+  },
+  {
+    "dex": "event",
+    "number": "002",
+    "pokemon": "Skiploom",
+    "habitat": "Bright",
+    "skills": ["Grow"],
+    "favorites": ["lots of nature", "pretty flowers", "soft stuff", "nice breezes", "spinning stuff", "dry flavors"]
+  },
+  {
+    "dex": "event",
+    "number": "003",
+    "pokemon": "Jumpluff",
+    "habitat": "Bright",
+    "skills": ["Grow", "Litter"],
+    "litter_drop": "Fluff",
+    "favorites": ["lots of nature", "pretty flowers", "soft stuff", "nice breezes", "round stuff", "sour flavors"]
+  }
+]

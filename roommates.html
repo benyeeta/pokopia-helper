@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokopia Roommate Finder</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/roommates.css">
+</head>
+<body class="p-4 md:p-8">
+
+    <header class="max-w-7xl mx-auto mb-12 px-4">
+        <div class="flex justify-between items-center py-4 border-b border-slate-600">
+            <a href="index.html" class="text-2xl font-bold text-slate-100 hover:text-blue-400 transition">Pokopia Helper</a>
+            <nav class="flex items-center gap-4">
+                <a href="index.html" class="text-slate-300 hover:text-blue-400 font-semibold">Habitat Dex</a>
+                <a href="roommates.html" class="font-bold text-blue-400 bg-slate-700 px-3 py-1.5 rounded-lg">Roommate Dex</a>
+            </nav>
+        </div>
+        <div class="text-center pt-10">
+            <div class="flex justify-center items-center gap-6 mb-2">
+                <h1 class="text-5xl font-bold text-slate-100">Roommate Finder</h1>
+                <button id="show-saved-houses-btn" class="relative bg-slate-700 text-blue-400 font-bold py-2 px-4 rounded-lg shadow-sm hover:bg-slate-600 transition border border-slate-600">
+                View Saved Houses
+                <span id="saved-houses-count-badge" class="hidden absolute -top-2 -right-2 bg-red-500 text-white text-xs font-bold rounded-full h-5 w-5 flex items-center justify-center">0</span>
+            </button>
+            </div>
+            <p class="text-lg text-slate-400">Select up to 4 compatible Pokémon to form a house.</p>
+        </div>
+    </header>
+
+    <main class="max-w-5xl mx-auto space-y-8 px-4">
+            <!-- Current House Selection -->
+            <section class="bg-slate-700/50 p-6 rounded-2xl shadow-lg border border-slate-600">
+                <h2 class="font-bold text-xl mb-2 text-slate-200">Current House</h2>
+                <p class="text-sm text-slate-400 mb-4">Click a Pokémon to remove it.</p>
+                
+                <div class="flex flex-col md:flex-row gap-4 mb-4">
+                    <div class="flex-grow">
+                        <label for="house-name-input" class="block text-sm font-bold text-slate-200 mb-1">House Name (Optional)</label>
+                        <input type="text" id="house-name-input" placeholder="e.g., The Cool Kids" class="w-full p-3 rounded-xl border border-slate-500 bg-slate-800 text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition">
+                    </div>
+                    <div class="flex-grow">
+                        <label for="house-area-select" class="block text-sm font-bold text-slate-200 mb-1">Area (Optional)</label>
+                        <select id="house-area-select" class="w-full p-3 rounded-xl border border-slate-500 bg-slate-800 text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition">
+                            <option value="">Select an area...</option>
+                            <option value="Bleak Beach">Withered Wastelands</option>
+                            <option value="Withered Wasteland">Bleak Beach</option>
+                            <option value="Whispering Woods">Rocky Ridges</option>
+                            <option value="Sunny Savannah">Sparkling Skylands</option>
+                            <option value="Crystal Caves">Palette Town</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div id="common-attributes-container" class="mb-4 hidden"></div>
+
+                <div id="current-house-slots" class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-4">
+                    <!-- Pokémon slots will be generated here -->
+                </div>
+                <div class="flex gap-4">
+                    <button id="save-house-btn" class="bg-blue-500 text-white font-bold py-2 px-4 rounded-lg hover:bg-blue-600 transition disabled:bg-slate-300 disabled:cursor-not-allowed" disabled>Save House</button>
+                    <button id="reset-btn" class="bg-slate-500 text-white font-bold py-2 px-4 rounded-lg hover:bg-slate-600 transition">Start Over</button>
+                </div>
+            </section>
+
+        <!-- Available Roommates -->
+            <section>
+                <div class="mb-4">
+                    <h2 class="font-bold text-xl text-slate-200 mb-3">Available Roommates</h2>
+                    <div id="filter-controls" class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                        <input type="text" id="search-input" placeholder="Search by name..." class="p-3 rounded-xl border border-slate-500 bg-slate-800 text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition col-span-2 md:col-span-1">
+                        <select id="skill-filter" class="p-3 rounded-xl border border-slate-500 bg-slate-800 text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition">
+                            <option value="">Filter by Skill</option>
+                        </select>
+                        <select id="habitat-filter" class="p-3 rounded-xl border border-slate-500 bg-slate-800 text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition">
+                            <option value="">Filter by Habitat</option>
+                        </select>
+                        <select id="dex-filter" class="p-3 rounded-xl border border-slate-500 bg-slate-800 text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition">
+                            <option value="">Filter by Dex</option>
+                            <option value="main">Main Dex</option>
+                            <option value="event">Event Dex</option>
+                        </select>
+                    </div>
+                </div>
+                <div id="roommate-grid" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
+                    <!-- Available Pokémon cards will be injected here -->
+                </div>
+            </section>
+
+    </main>
+
+    <!-- Saved Houses Modal -->
+    <div id="saved-houses-modal" class="hidden fixed inset-0 bg-black bg-opacity-75 z-50 flex items-center justify-center p-4 transition-opacity duration-300">
+        <div class="bg-slate-800 rounded-2xl shadow-xl w-full max-w-6xl max-h-[90vh] flex flex-col border border-slate-600">
+            <!-- Modal Header -->
+            <div class="flex justify-between items-center p-6 border-b border-slate-600">
+                <h2 class="font-bold text-2xl text-slate-100">Saved Houses</h2>
+                <div class="flex items-center gap-6">
+                    <button id="clear-saved-btn" class="text-sm font-semibold text-red-500 hover:text-red-700">Clear All</button>
+                    <button id="close-modal-btn" class="text-2xl font-bold text-slate-500 hover:text-slate-300">&times;</button>
+                </div>
+            </div>
+            
+            <!-- Modal Content -->
+            <div class="p-6 flex-grow overflow-y-auto">
+                <div class="mb-6">
+                    <select id="saved-house-area-filter" class="w-full md:w-1/3 p-3 rounded-xl border border-slate-600 bg-slate-700 text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition">
+                        <option value="">Filter by area...</option>
+                    </select>
+                </div>
+                <div id="saved-houses-list" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+                    <!-- Saved houses will be listed here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="text-center py-10 text-slate-500 text-sm">
+        Pokopia Roommate Dex &copy; 2026
+    </footer>
+
+    <script src="js/roommates.js" defer></script>
+</body>
+</html>

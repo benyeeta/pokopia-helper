@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokopia Habitat Dex</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body class="p-4 md:p-8">
+
+    <header class="max-w-7xl mx-auto mb-12 px-4">
+        <div class="flex justify-between items-center py-4 border-b border-slate-600">
+            <a href="index.html" class="text-2xl font-bold text-slate-100 hover:text-blue-400 transition">Pokopia Helper</a>
+            <nav class="flex items-center gap-4">
+                <a href="index.html" class="font-bold text-blue-400 bg-slate-700 px-3 py-1.5 rounded-lg">Habitat Dex</a>
+                <a href="roommates.html" class="text-slate-300 hover:text-blue-400 font-semibold">Roommate Dex</a>
+            </nav>
+        </div>
+        <div class="text-center pt-10">
+            <h1 class="text-5xl font-bold text-slate-100 mb-2">Pokopia Habitat Dex</h1>
+            <p class="text-lg text-slate-400">Find habitats by furniture or item requirements</p>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-4 gap-8 px-4">
+        
+        <aside class="lg:col-span-1 space-y-6">
+            <div class="bg-slate-700/50 p-6 rounded-2xl shadow-lg border border-slate-600">
+                <h2 class="font-bold text-lg mb-4 text-slate-200">Filters</h2>
+                <div class="space-y-4">
+                    <input type="text" id="search-input" placeholder="Search name, item, Pokémon..." 
+                           class="w-full p-3 rounded-xl border border-slate-500 bg-slate-800 text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition">
+                    <select id="dex-filter" class="w-full p-3 rounded-xl border border-slate-500 bg-slate-800 text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition">
+                        <option value="">All Dexes</option>
+                        <option value="main">Main Dex</option>
+                        <option value="event">Event Dex</option>
+                    </select>
+                </div>
+                
+            </div>
+        </aside>
+
+        <section class="lg:col-span-3">
+            <div id="habitat-grid" class="grid grid-cols-1 gap-4">
+                
+                <!-- Placeholder for loading state -->
+                <div class="bg-slate-700/50 rounded-xl p-4 border border-slate-600 animate-pulse">
+                    <div class="flex gap-4 items-start">
+                        <div class="w-32 h-32 bg-slate-600 rounded-lg flex-shrink-0"></div>
+                        <div class="flex-1 space-y-4">
+                            <div class="h-5 bg-slate-600 rounded w-3/4"></div>
+                            <div class="space-y-2">
+                                <div class="h-3 bg-slate-600 rounded"></div>
+                                <div class="h-3 bg-slate-600 rounded w-5/6"></div>
+                            </div>
+                             <div class="space-y-2">
+                                <div class="h-3 bg-slate-600 rounded"></div>
+                                <div class="h-3 bg-slate-600 rounded w-5/6"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="text-center py-10 text-slate-500 text-sm">
+        Pokopia Habitat Dex &copy; 2026
+    </footer>
+
+    <script src="js/index.js" defer></script>
+</body>
+</html>
