@@ -165,7 +165,7 @@ function renderHouseSlots() {
 
         slot.innerHTML = `
             <div class="flex items-center gap-3 transition group-hover:opacity-20">
-                <img src="${getPokemonImage(pokemonName)}" alt="${pokemonName}" class="w-12 h-12 object-contain" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png'">
+                <img src="${getPokemonImage(pokemonName)}" alt="${pokemonName}" class="w-12 h-12 object-contain" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png'" loading="lazy">
                 <span class="font-bold text-slate-100 text-lg">${pokemonName}</span>
             </div>
             <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition">

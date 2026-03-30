@@ -84,7 +84,7 @@ function applyFiltersAndRender() {
 
             return `
                 <div class="relative" title="${title}">
-                    <img src="${getPokemonImage(pokemonData.pokemon)}" alt="${pokemonData.pokemon}" class="w-12 h-12 object-contain bg-slate-800/50 rounded-md p-0.5 border border-slate-600">
+                    <img src="${getPokemonImage(pokemonData.pokemon)}" alt="${pokemonData.pokemon}" class="w-12 h-12 object-contain bg-slate-800/50 rounded-md p-0.5 border border-slate-600" loading="lazy">
                     ${conditionTags}
                 </div>
             `;
