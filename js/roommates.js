@@ -32,6 +32,16 @@ const savedHousesModal = document.getElementById('saved-houses-modal');
 const closeModalBtn = document.getElementById('close-modal-btn');
 const savedHousesCountBadge = document.getElementById('saved-houses-count-badge');
 
+// --- CONSTANTS ---
+const oppositeHabitats = {
+    'Bright': 'Dark',
+    'Dark': 'Bright',
+    'Humid': 'Dry',
+    'Dry': 'Humid',
+    'Warm': 'Cool',
+    'Cool': 'Warm'
+};
+
 // --- INITIALIZATION ---
 async function initialize() {
     loadSavedState();
@@ -241,8 +251,17 @@ function renderAvailablePokemon() {
             let compatibilityScore = null;
             if (currentHouse.length > 0) {
                 const candidate = p;
-                const habitatScore = 40; // Base score for matching habitat
+                const targetHabitat = houseMembersData[0].habitat;
+                let habitatScore;
 
+                if (candidate.habitat === targetHabitat) {
+                    habitatScore = 40; // Max score for same habitat
+                } else if (oppositeHabitats[targetHabitat] === candidate.habitat) {
+                    habitatScore = 0; // Min score for opposite habitat
+                } else {
+                    habitatScore = 20; // Neutral score for non-matching, non-opposite habitats
+                }
+                
                 let totalFavoriteMatchRatio = 0;
                 if (candidate.favorites.length > 0 && !(candidate.favorites.length === 1 && candidate.favorites[0] === 'none')) {
                     houseMembersData.forEach(member => {
