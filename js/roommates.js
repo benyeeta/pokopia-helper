@@ -257,9 +257,9 @@ function renderAvailablePokemon() {
                 if (candidate.habitat === targetHabitat) {
                     habitatScore = 40; // Max score for same habitat
                 } else if (oppositeHabitats[targetHabitat] === candidate.habitat) {
-                    habitatScore = 0; // Min score for opposite habitat
+                    habitatScore = -20; // Penalty for opposite habitat
                 } else {
-                    habitatScore = 20; // Neutral score for non-matching, non-opposite habitats
+                    habitatScore = 30; // Neutral score for non-matching, non-opposite habitats
                 }
                 
                 let totalFavoriteMatchRatio = 0;
@@ -273,7 +273,7 @@ function renderAvailablePokemon() {
                 
                 const averageFavoriteMatchRatio = houseMembersData.length > 0 ? totalFavoriteMatchRatio / houseMembersData.length : 0;
                 const favoritesScore = averageFavoriteMatchRatio * 60;
-                compatibilityScore = Math.round(habitatScore + favoritesScore);
+                compatibilityScore = Math.round(Math.max(0, habitatScore + favoritesScore));
             }
             return { ...p, compatibilityScore };
         });
